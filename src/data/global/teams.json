@@ -738,15 +738,15 @@
             "medium": "../images/team/roland.jpg"
         },
         "image": "../images/team/roland.jpg",
-        "competencies": "Data Mining, Mining Software Repositories, Machine Learning, Natural Language Processing, Security/Vulnerability Analytics",
+        "competencies": "Data Mining, Mining Software Repositories, Machine Learning, Data Science, Natural Language Processing, Security/Vulnerability Analytics",
         "socials": {
             "facebook": "",
-            "twitter": "",
+            "twitter": "https://twitter.com/CroftRoland",
             "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
+            "personalwebsite": "https://rolandcroft.github.io/",
+            "linkedin": "https://www.linkedin.com/in/rolandcroft/",
+            "github": "https://github.com/RolandCroft",
+            "googlescholar": "https://scholar.google.com/citations?user=R6gmQDcAAAAJ&hl=en"
         },
         "projecturl": "",
         "researchtopic": "",
