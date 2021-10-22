@@ -36,6 +36,8 @@ const Section = ({ markHeading, headingStyle2 }) => {
                         <br />
                         <p style={{ fontSize: 20, color: "#315597", fontFamily: "lucida grande" }}>You will be reimbursed for your time spent on the study.</p>
                         <br />
+                        <p style={{ fontSize: 20, color: "#315597", fontFamily: "lucida grande" }}>The data collected will be de-identified at the analysis stage.</p>
+                        <br />
                         <h5 style={{ color: "#315597", fontFamily: "lucida grande" }}>Are you interested to know more information about the study? </h5>
                         <br />
                         <p style={{ fontSize: 20 }}>Please contact Dr Asangi Jayatilaka <a href="mailto:asangi.jayatilaka@adelaide.edu.au" style={{ fontSize: 20 }}>(asangi.jayatilaka@adelaide.edu.au)</a> to get to know more information and arrange a time for the interview. </p>
