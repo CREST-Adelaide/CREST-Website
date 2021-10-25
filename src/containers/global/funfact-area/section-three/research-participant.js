@@ -19,7 +19,7 @@ const Section = ({ markHeading, headingStyle2 }) => {
                     <Col lg={{ span: 12, offset: 0 }}>
                         <h1 style={{ textAlign: "center" }}>{"Research participants needed!!"}</h1>
                         <br />
-                        <h3 style={{ textAlign: "center" }}>{"Investigation of the security championship programs for creating positive security culture within organisations"}</h3>
+                        <h3 style={{ textAlign: "center" }}>{"Investigation into security championship programs for creating positive security culture within organisations"}</h3>
                         <br />
                         <br />
                         <p style={{ fontSize: 24, color: "#315597", fontFamily: "lucida grande" }}>Researchers from the University of Adelaide, South Australia, are looking for participants to take part in an interview (Zoom or through email) regarding security championship programs within organisations. This study purports to prepare a set of recommendations for improving “security champions” programs.</p>
