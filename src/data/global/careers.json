@@ -7,11 +7,11 @@
         "id": "our-open-jobs",
         "jobs": [
             {
-                "id": "summer-internship-2021",
-                "title": "Summer Internship 2021",
+                "id": "job-5",
+                "title": "Grant-Funded Researcher (A)",
                 "type": "Full time",
-                "description": "Timeframe and duration – Nov 2021 – Feb 2022, 10-12 weeks, full time.",
-                "link": "/summer-internship-2021"
+                "description": "Fixed term position available for 2 years. Level A Full Time position.",
+                "link": "/grant-funded-researcher-a"
             },
             {
                 "id": "job-4",
@@ -25,6 +25,13 @@
     {
         "id": "our-closed-jobs",
         "closedjobs": [
+            {
+                "id": "summer-internship-2021",
+                "title": "Summer Internship 2021",
+                "type": "Full time",
+                "description": "Timeframe and duration – Nov 2021 – Feb 2022, 10-12 weeks, full time.",
+                "link": "/summer-internship-2021"
+            },
             {
                 "id": "postdoc-a",
                 "title": "Postdoc Position",

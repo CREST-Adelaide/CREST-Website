@@ -1,5 +1,5 @@
 ---
-title: "Grant-Funded Researcher A"
+title: "Grant-Funded Researcher A - CREST"
 date: "2020-09-06 09:02:00"
 author: "Owen Christ"
 featured_image: "../../images/blog/blog-03-1170x600.jpg"
