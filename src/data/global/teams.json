@@ -390,6 +390,32 @@
         "is_featured": true
     },
     {
+        "id": "sheik-fattah",
+        "name": "Sheik Mohammad Mostakim Fattah",
+        "designation": "Post Doc",
+        "position": "researchfellows",
+        "introduction": "Sheik Mohammad Mostakim Fattah is a postdoctoral researcher at the Centre for Research on Engineering Software Technologies (CREST), School of Computer Science, University of Adelaide. He has completed his Ph.D. in 2021 from Sensor, Cloud, and Services Lab (SCSLab) at the School of Computer Science of University the of Sydney. His Ph.D. thesis focused on Long-term IaaS Cloud Service Selection. He was supervised by Professor Athman Bouguettaya and Dr. Sajib Mistry during his Ph.D. He has published research papers in several A* and A-ranked journals and conferences such as IEEE TSC, ICSOC, and IEEE ICWS. He is also a reviewer of several conferences and journals, including IEEE ICWS, ICSOC, IEEE TKDE, IEEE TSC, and ACM TOIT. Before starting his Ph.D., he was an assistant researcher at Korea Electronics Technology Institute (KETI). He worked on developing several IoT-based platforms for several European and Korean research projects at KETI. He completed his master's in February 2016 in Computer and Information Communication Engineering at Hankuk University of Foreign Studies, South Korea. He also worked as a research assistant in Advance Networking Lab at the same university. He completed his bachelor's degree in Computer science and Engineering from the University of Dhaka, Bangladesh. He has been awarded several scholarships such as the School of Computer Science Research Students Excellent Prize, Research Training Program Stipend, and Faculty of Engineering Completion Scholarships.",
+        "images": {
+            "large": "../images/team/fattah.png",
+            "medium": "../images/team/fattah.png"
+        },
+        "image": "../images/team/fattah.png",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "https://twitter.com/smfattah",
+            "instagram": "",
+            "personalwebsite": "https://www.researchgate.net/profile/Sheik-Fattah",
+            "linkedin": "https://linkedin.com/in/sheik-mohammad-mostakim-fattah-30814a7b",
+            "github": "",
+            "googlescholar": "https://scholar.google.com/citations?user=IOe5upYAAAAJ&hl=en"
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
         "id": "bakheet-aljedaani",
         "name": "Bakheet Aljedaani",
         "designation": "PhD",
