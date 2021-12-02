@@ -208,32 +208,6 @@
         "is_featured": true
     },
     {
-        "id": "leonardo-horn-lwaya",
-        "name": "Leonardo Horn Iwaya",
-        "designation": "Post Doc",
-        "position": "researchfellows",
-        "introduction": "Leonardo H. Iwaya is a Postdoctoral Research Fellow in the Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide on projects funded by the Cyber Security Cooperative Research Centre (CSCRC). His work focuses on information security and privacy for new technologies, in particular mobile and ubiquitous health (mHealth/uHealth) systems. Leonardo completed his PhD in Computer Science at Karlstad University (KAU), MSc in Electrical Engineering at University of São Paulo (USP) and BSc in Computer Science at Santa Catarina State University (UDESC). During his career he already worked for Ericsson Research (Brazil and Sweden) in various projects in the areas of mobile health, cloud network security, and security APIs. During the PhD he worked in many European projects, such as the EU H2020 PAPAYA (PlAtform for PrivAcY preserving data Analytics). At CREST he has been involved in the CSCRC projects such as the Cyber Common Operating Picture for Executive Level Decision-Making, as well as research on security and privacy for mHealth/uHealth systems, and Docker technology. Most of his research intersects the areas of security, privacy, and healthcare with advanced cloud- and AI-based technologies.",
-        "images": {
-            "large": "../images/team/leonardo.jpg",
-            "medium": "../images/team/leonardo.jpg"
-        },
-        "image": "../images/team/leonardo.jpg",
-        "competencies": "Privacy engineering, cybersecurity, mobile health, health informatics, privacy impact assessment, natural language processing, human factors, mixed-method research.",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
         "id": "asangi-jayatilake",
         "name": "Asangi Jayatilaka",
         "designation": "Post Doc",
@@ -884,32 +858,6 @@
         "is_featured": true
     },
     {
-        "id": "anying-xiang",
-        "name": "Anying Xiang",
-        "designation": "Research Engineer",
-        "position": "assistants",
-        "introduction": "Anying is doing the Software Engineering activity under the supervision of Professor Muhammad Ali Babar at Crest, the University of Adelaide. She completed the Master of Software Engineering at the University of Adelaide.",
-        "images": {
-            "large": "../images/team/Anying.png",
-            "medium": "../images/team/Anying.png"
-        },
-        "image": "../images/team/Anying.png",
-        "competencies": "",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
         "id": "isuru-dharmadasa",
         "name": "Isuru Dharmadasa",
         "designation": "PhD",
@@ -1092,17 +1040,17 @@
         "is_featured": true
     },
     {
-        "id": "anupam",
-        "name": "Anupam",
-        "designation": "Research Engineer",
-        "position": "assistants",
-        "introduction": "I am currently pursuing a Master of Computer Science degree at the University of Adelaide. Before that, I worked as a Software Engineer at Ford Motor Company for four years, where I performed activities related to design, development, integration, and testing of complex Information Systems using Agile methodology. My interest lies in analyzing and solving complex problems in the field of Software Engineering and Cyber Security.",
+        "id": "leonardo-horn-lwaya",
+        "name": "Leonardo Horn Iwaya",
+        "designation": "Post Doc",
+        "position": "alumni",
+        "introduction": "Leonardo H. Iwaya is a Postdoctoral Research Fellow in the Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide on projects funded by the Cyber Security Cooperative Research Centre (CSCRC). His work focuses on information security and privacy for new technologies, in particular mobile and ubiquitous health (mHealth/uHealth) systems. Leonardo completed his PhD in Computer Science at Karlstad University (KAU), MSc in Electrical Engineering at University of São Paulo (USP) and BSc in Computer Science at Santa Catarina State University (UDESC). During his career he already worked for Ericsson Research (Brazil and Sweden) in various projects in the areas of mobile health, cloud network security, and security APIs. During the PhD he worked in many European projects, such as the EU H2020 PAPAYA (PlAtform for PrivAcY preserving data Analytics). At CREST he has been involved in the CSCRC projects such as the Cyber Common Operating Picture for Executive Level Decision-Making, as well as research on security and privacy for mHealth/uHealth systems, and Docker technology. Most of his research intersects the areas of security, privacy, and healthcare with advanced cloud- and AI-based technologies.",
         "images": {
-            "large": "../images/team/anupam.jpg",
-            "medium": "../images/team/anupam.jpg"
+            "large": "../images/team/leonardo.jpg",
+            "medium": "../images/team/leonardo.jpg"
         },
-        "image": "../images/team/anupam.jpg",
-        "competencies": "",
+        "image": "../images/team/leonardo.jpg",
+        "competencies": "Privacy engineering, cybersecurity, mobile health, health informatics, privacy impact assessment, natural language processing, human factors, mixed-method research.",
         "socials": {
             "facebook": "",
             "twitter": "",
@@ -1273,6 +1221,59 @@
         "researchlink": "",
         "is_featured": true
     },
+    {
+        "id": "anupam",
+        "name": "Anupam",
+        "designation": "Research Engineer",
+        "position": "alumni",
+        "introduction": "I am currently pursuing a Master of Computer Science degree at the University of Adelaide. Before that, I worked as a Software Engineer at Ford Motor Company for four years, where I performed activities related to design, development, integration, and testing of complex Information Systems using Agile methodology. My interest lies in analyzing and solving complex problems in the field of Software Engineering and Cyber Security.",
+        "images": {
+            "large": "../images/team/anupam.jpg",
+            "medium": "../images/team/anupam.jpg"
+        },
+        "image": "../images/team/anupam.jpg",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "anying-xiang",
+        "name": "Anying Xiang",
+        "designation": "Research Engineer",
+        "position": "alumni",
+        "introduction": "Anying is doing the Software Engineering activity under the supervision of Professor Muhammad Ali Babar at Crest, the University of Adelaide. She completed the Master of Software Engineering at the University of Adelaide.",
+        "images": {
+            "large": "../images/team/Anying.png",
+            "medium": "../images/team/Anying.png"
+        },
+        "image": "../images/team/Anying.png",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+
     {
         "id": "hien-le",
         "name": "Hien Le",
