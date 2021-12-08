@@ -13,80 +13,50 @@ import Image from '../../../../components/image'
 import { OurMissionWrap, OurMissionImageWrap, MissionContentWrap, VideoBtnWrap, ButtonWrap } from './our-mission.style'
 
 const OurMission = ({ textStyle, buttonStyle }) => {
-    const aboutQueryData = useStaticQuery(graphql`
-        query AboutDataQuery {
-            indexAppointmentJson(id: {eq: "appointment-about-us"}) {
-                about_content {
-                    link
-                    list
-                    text
-                    video_link
-                    video_preview {
-                        childImageSharp {
-                            fluid(quality: 100, maxWidth: 570, maxHeight: 350) {
-                                ...GatsbyImageSharpFluid_withWebp
-                                presentationWidth
-                                presentationHeight
-                                aspectRatio
-                            }
-                        }
-                    }
+
+    const HeroData = useStaticQuery(graphql`
+    query ProcessingStu1Query {
+        indexProcessingJson(id: {eq: "summer-scholarship-project1"}) {
+            title
+            student
+            studentemail
+            studentphoto {
+                childImageSharp {
+                  fluid(maxWidth: 1920, maxHeight: 768, quality: 100) {
+                    ...GatsbyImageSharpFluid_tracedSVG
+                    presentationWidth
+                    presentationHeight
+                  }
                 }
             }
+            studentprofile
         }
-    `)
-    const [videoOpen, setVideoOpen] = useState(false);
-    const modalVideoOpen = () => {
-        setVideoOpen(true)
     }
+`)
 
-    const modalVideoClose = () => {
-        setVideoOpen(false)
-    }
 
-    const { about_content } = aboutQueryData.indexAppointmentJson;
-    const { video_link } = about_content;
-    const video_arr = video_link.split('=', -1);
-    const video_id = video_arr[1];
 
+    const { title, student, studentphoto, studentprofile} = HeroData.indexProcessingJson;
     return (
         <OurMissionWrap>
             <Row>
                 <Col lg={6}>
                     <OurMissionImageWrap>
-                        <Image fluid={about_content.video_preview.childImageSharp.fluid} alt="Our Mission" align="left" />
-                        <VideoBtnWrap>
+                        <Image fluid={studentphoto.childImageSharp.fluid} alt="Our Mission" align="left" />
+                        {/* <VideoBtnWrap>
                             <VideoButton skin="primary" onClick={modalVideoOpen} />
-                        </VideoBtnWrap>
+                        </VideoBtnWrap> */}
                     </OurMissionImageWrap>
                 </Col>
                 <Col lg={{ span: 5, offset: 1 }}>
                     <MissionContentWrap>
-                        {about_content.text && <Text {...textStyle}>{parse(about_content.text)}</Text>}
-                        {about_content.list && (
-                            <List layout="check">
-                                {about_content.list.map((item, i) => (
-                                    <ListItem key={`list-item-${i}`}>
-                                        <span className="icon"><MdDone /></span>
-                                        <span>{item}</span>
-                                    </ListItem>
-                                ))}
-                            </List>
-                        )}
-                        {about_content.link && (
-                            <ButtonWrap>
-                                <Button {...buttonStyle} icon={<MdChevronRight />}>Let's get started </Button>
-                            </ButtonWrap>
-                        )}
+                        
+
+
                     </MissionContentWrap>
                 </Col>
             </Row>
-            <ModalVideo
-                channel='youtube'
-                videoId={video_id}
-                isOpen={videoOpen}
-                onClose={modalVideoClose}
-            />
+
         </OurMissionWrap>
     )
 }

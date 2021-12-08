@@ -14,7 +14,7 @@ import { HeroWrapper, HeroBtnGroup, HeroTextBox, ImageBox } from './hero-area.st
 const HeroArea = (props) => {
     const HeroData = useStaticQuery(graphql`
         query ProcessingHeroQuery {
-            indexProcessingJson(id: {eq: "processing-hero-content"}) {
+            indexProcessingJson(id: {eq: "summer-scholarship-content"}) {
                 title
                 subtitle
                 subtitle2
@@ -22,7 +22,7 @@ const HeroArea = (props) => {
                 link
                 bg_image {
                     childImageSharp {
-                      fluid(maxWidth: 1920, maxHeight: 768, quality: 100) {
+                      fluid(maxWidth: 1920, maxHeight: 1280, quality: 100) {
                         ...GatsbyImageSharpFluid_tracedSVG
                         presentationWidth
                         presentationHeight
@@ -51,13 +51,22 @@ const HeroArea = (props) => {
                     <Row alignitems="center">
                         <Col lg={12} md={12}>
                             <HeroTextBox>
+                            <br />
                                 <br />
                                 <br />
-                                {subtitle && <Heading {...subtitleStyle}>{subtitle}</Heading>}
+                                <br />
+                                <br />
+                                
+                                <br />
+                                <br />
                                 {title && <Heading {...titleStyle}>{parse(title)}</Heading>}
+                                {subtitle && <Heading {...subtitleStyle2}>{subtitle}</Heading>}
                                 <br />
-                                {subtitle2 && <Heading {...subtitleStyle2}>{parse(subtitle2)}</Heading>}
-                                {text && <Text {...textStyle}>{text}</Text>}
+                                <br />
+                                <br />
+                                <br />
+                                {/* {subtitle2 && <Heading {...subtitleStyle2}>{parse(subtitle2)}</Heading>}
+                                {text && <Text {...textStyle}>{text}</Text>} */}
                                 <br />
                                 <br />
                             </HeroTextBox>

@@ -1,5 +1,32 @@
 [
     {
+        "id": "summer-scholarship-content",
+        "title": "CREST Summer Scholarships",
+        "subtitle": "2021-2022",
+        "subtitle2": "Jointly held with <a href='https://www.dl-cti.org/'>the DL-CTI Workshop</a>",
+        "text": "December 7, 2021",
+        "link": "/index-processing",
+        "bg_image": "./images/hero/happy-study.jpeg"
+    },
+    {
+        "id": "summer-scholarship-project1",
+        "title": "Human security dashboard",
+        "supervisor": "Asangi Jayatilaka and Ali Babar",
+        "student": "Minhaj Ahmed",
+        "studentemail": "minhaj.ahmed@student.adelaide.edu.au",
+        "studentphoto": "./images/hero/student1.png",
+        "studentprofile": "Minhaj Ahmed is a second year Bachelor of Computer Science (Advanced) student at The University of Adelaide. Minhaj has received a scholarship on his admission at The University of Adelaide based on academic merit. His fascination towards research has propelled Minhaj to get involved in project works, and he is working on a project which aims at designing a human security dashboard which would visualise various metrics covering various aspects of human security, including phishing, security training and engagement. The research is being supervised by Dr Asangi Jayatilaka and Professor Ali Babar. Minhaj is excited to leverage on the opportunity to explore new techniques and use this learning experience as a driving force for his future career."
+    },
+    {
+        "id": "summer-scholarship-project2",
+        "title": "Human security dashboard",
+        "supervisor": "Asangi Jayatilaka and Ali Babar",
+        "student": "Minhaj Ahmed",
+        "studentemail": "minhaj.ahmed@student.adelaide.edu.au",
+        "studentphoto": "./images/hero/student1.png",
+        "studentprofile": "Minhaj Ahmed is a second year Bachelor of Computer Science (Advanced) student at The University of Adelaide. Minhaj has received a scholarship on his admission at The University of Adelaide based on academic merit. His fascination towards research has propelled Minhaj to get involved in project works, and he is working on a project which aims at designing a human security dashboard which would visualise various metrics covering various aspects of human security, including phishing, security training and engagement. The research is being supervised by Dr Asangi Jayatilaka and Professor Ali Babar. Minhaj is excited to leverage on the opportunity to explore new techniques and use this learning experience as a driving force for his future career."
+    },
+    {
         "id": "processing-hero-content",
         "title": "Data Mining and Machine Learning for <span>Cybersecurity</span> Workshop",
         "subtitle": "ICDM 2021",
@@ -36,7 +63,7 @@
         "ps": "We are interested in the new applications of data mining and AI for cybersecurity. Submitted papers will be evaluated based on criteria such as technical originality, creativity, and applicability.",
         "new1": "Methodological topics of interest include, but are not limited to:",
         "new2": "Application areas of interest include, but are not limited to:",
-        "content1":"1. Graph convolution networks and graph attention networks <br />2. Interpretable deep learning<br />3. Real-time and/or streaming deep learning<br />4. Multi-view deep learning paradigms<br />5. Deep adversarial learning (e.g., generative adversarial networks)<br />6. Deep transfer learning<br />7. Deep Bayesian learning<br />8. Deep reinforcement learning<br />",
+        "content1": "1. Graph convolution networks and graph attention networks <br />2. Interpretable deep learning<br />3. Real-time and/or streaming deep learning<br />4. Multi-view deep learning paradigms<br />5. Deep adversarial learning (e.g., generative adversarial networks)<br />6. Deep transfer learning<br />7. Deep Bayesian learning<br />8. Deep reinforcement learning<br />",
         "content2": "1. Malware evasion and detection<br />2. IP reputation services<br />3. Event correlation and anomaly detection<br />4. Internet of Things (IoT) analysis (e.g., fingerprinting, network telescopes, etc.)<br />5. Threat modeling (e.g., mapping exploits to MITRE ATT&CK)<br />6. Security data fusion (e.g., event correlation) across multiple data sources<br />7. Cybersecurity information sharing and automation<br />8. Smart and large-scale vulnerability assessment and management systems<br />9. Security Intelligence Augmentation (e.g., human-in-the-loop systems)<br />10. Dark Web Analytics for CTI applications"
     },
     {
@@ -99,16 +126,6 @@
         "item12": "Rafiqul Islam, Charles Sturt University, Australia",
         "ps": "We are interested in the new applications of data mining and AI for cybersecurity. Submitted papers will be evaluated based on criteria such as technical originality, creativity, and applicability."
     },
-    
-    
-    
-    
-    
-    
-    
-    
-
-
     {
         "id": "icdm-contact",
         "title": "Contact Us",

@@ -32,18 +32,11 @@ const TabsSection = ({ sectionStyles, sectionTitleStyle }) => {
     return (
         <TabWrapper>
             <Container>
+
                 <Row>
                     <Col lg={12}>
-                        <SectionTitle
-                            {...sectionTitleStyle}
-                            subtitle={secdata.subtitle}
-                            title={secdata.title}
-                        />
-                    </Col>
-                </Row>
-                <Row>
-                    <Col lg={12}>
-                        <Tabs id="about-us-tab" defaultActiveKey="our-mission-tab">
+                        <OurMission />
+                        {/* <Tabs id="about-us-tab" defaultActiveKey="our-mission-tab">
                             <TabHeader>
                                 {tab_header.map(tabitem => {
                                     return <NavItem key={tabitem.id} eventKey={tabitem.id}>{tabitem.title}</NavItem>
@@ -64,7 +57,7 @@ const TabsSection = ({ sectionStyles, sectionTitleStyle }) => {
                                     <Awards />
                                 </TabPane>
                             </TabContent>
-                        </Tabs>
+                        </Tabs> */}
                     </Col>
                 </Row>
             </Container>
