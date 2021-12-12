@@ -18,27 +18,119 @@ is_featured: true
 ---
 
 
+### 2022
+1. F Tian, P Liang, MA Babar, "Relationships between software architecture and source code in practice: An exploratory survey and interview", Information and Software Technology 141.
+
+- R Croft, Y Xie, M Zahedi, MA Babar, C Treude, "An empirical study of developers’ discussions about security challenges of different programming languages", Empirical Software Engineering 27 (1).
+
+
 ### 2021
-1. Sabir, Bushra, et al. "Machine Learning for Detecting Data Exfiltration." ACM Computing Survey 2021. [Link](https://arxiv.org/abs/2012.09344)
-2. Sabir, Bushra, M. Ali Babar, and Raj Gaire. "ReinforceBug: A Framework to Generate Adversarial Textual Examples." NAACL-HLT 2021. [Link](https://arxiv.org/abs/2103.08306)
-3. Sabir, Bushra, M. Ali Babar, and Raj Gaire. "An Evasion Attack against ML-based Phishing URL Detectors." arXiv preprint arXiv:2005.08454 (Submitted to ACMTOPS). [Link](https://arxiv.org/abs/2005.08454)
-4. Yaser Mansouri, M Ali Babar, "A review of edge computing: Features and resource virtualization", Journal of Parallel and Distributed Computing, 2021.
+1. F Ullah, MA Babar, "On the scalability of Big Data Cyber Security Analytics systems", Journal of Network and Computer Applications.
+
+2. N Dissanayake, A Jayatilaka, M Zahedi, MA Babar, "Software security patch management—A systematic literature review of challenges, approaches, tools and practices", Information and Software Technology.
+
+3. M Babar, MU Tariq, AS Almasoud, MD Alshehri, "Privacy-Aware Data Forensics of VRUs Using Machine Learning and Big Data Analytics", Security and Communication Networks 2021.
+
+4. Y Xie, H Zhang, B Zhang, MA Babar, S Lu, "LogDP: Combining Dependency and Proximity for Log-based Anomaly Detection", International Conference on Service-Oriented Computing.
+
+5. R Croft, D Newlands, Z Chen, MA Babar, "An empirical study of rule-based and learning-based approaches for static application security testing", Proceedings of the 15th ACM/IEEE International Symposium on Empirical ….
+
+6. RN Rajapakse, M Zahedi, MA Babar, "An Empirical Analysis of Practitioners' Perspectives on Security Tool Integration into DevOps", Proceedings of the 15th ACM/IEEE International Symposium on Empirical ….
+
+7. F Tian, T Wang, P Liang, C Wang, AA Khan, MA Babar, "The impact of traceability on software maintenance and evolution: A mapping study", Journal of Software: Evolution and Process 33 (10).
+
+8. M Guo, G Wang, H Hata, MA Babar, "Revenue maximizing markets for zero-day exploits", Autonomous Agents and Multi-Agent Systems 35 (2).
+
+9. M Shahin, A Rezaei Nasab, M Ali Babar, "A qualitative study of architectural design issues in DevOps", Journal of Software: Evolution and Process.
+
+10. Y Mansouri, V Prokhorenko, F Ullah, MA Babar, "Evaluation of Distributed Databases in Hybrid Clouds and Edge Computing: Energy, Bandwidth, and Storage Consumption", arXiv preprint arXiv:2109.07260.
+
+11. R Croft, Y Xie, MA Babar, "Data Preparation for Software Vulnerability Prediction: A Systematic Literature Review", arXiv preprint arXiv:2109.05740.
+
+12. NK Tran, MA Babar, "Taxonomy of Edge Blockchain Network Designs", European Conference on Software Architecture.
+
+13. X Duan, M Ge, THM Le, F Ullah, S Gao, X Lu, MA Babar, "Automated Security Assessment for the Internet of Things", arXiv preprint arXiv:2109.04029.
+
+14. THM Le, D Hin, R Croft, MA Babar, "DeepCVA: Automated Commit-level Vulnerability Assessment with Deep Multi-task Learning", arXiv preprint arXiv:2108.08041.
+
+15. A Jayatilaka, NAG Arachchilage, MA Babar, "Falling for Phishing: An Empirical Investigation into People's Email Response Behaviors", arXiv preprint arXiv:2108.04766.
+
+16. THM Le, H Chen, MA Babar, "A survey on data-driven software vulnerability assessment and prioritization", arXiv preprint arXiv:2107.08364.
+
+17. R Namal Rajapakse, M Zahedi, MA Babar, "An Empirical Analysis of Practitioners' Perspectives on Security Tool Integration into DevOps", arXiv e-prints.
+
+18. TL Le Huynh Minh, R Croft, D Hin, MA Ali Babar, "A Large-scale Study of Security Vulnerability Support on Developer Q&A Websites", Evaluation and Assessment in Software Engineering.
+
+19. B Aljedaani, MA Babar, "Challenges With Developing Secure Mobile Health Applications: Systematic Review", JMIR mHealth and uHealth 9 (6).
+
+20. N Dissanayake, M Zahedi, A Jayatilaka, MA Babar, "A Grounded Theory of the Role of Coordination in Software Security Patch Management", arXiv preprint arXiv:2106.03458.
+
+21. B Sabir, F Ullah, MA Babar, R Gaire, "Machine Learning for Detecting Data Exfiltration: A Review", ACM Computing Surveys (CSUR) 54 (3).
+
+22. MA Chauhan, MA Babar, S Grainger, "Designing a Security Platform for Collaborating Autonomous Systems-An Experience Report", 2021 IEEE 18th International Conference on Software Architecture Companion ….
+
+23. RN Rajapakse, M Zahedi, MA Babar, H Shen, "Challenges and solutions when adopting DevSecOps: A systematic review", arXiv preprint arXiv:2103.08266.
+
+24. B Sabir, MA Babar, R Gaire, "ReinforceBug: A Framework to Generate Adversarial Textual Examples", arXiv preprint arXiv:2103.08306.
+
+25. S Li, H Zhang, Z Jia, C Zhong, C Zhang, Z Shan, J Shen, MA Babar, "Understanding and addressing quality attributes of microservices architecture: A Systematic literature review", Information and Software Technology 131.
+
+26. B Aljedaani, A Ahmad, M Zahedi, MA Babar, "End-Users' Knowledge and Perception about Security of Mobile Health Apps: An Empirical Study", arXiv preprint arXiv:2101.10412.
+
+27. Y Mansouri, MA Babar, "A review of edge computing: Features and resource virtualization", Journal of Parallel and Distributed Computing.
+
+28. NK Tran, MA Babar, J Boan, "Integrating blockchain and Internet of Things systems: A systematic review on objectives and designs", Journal of Network and Computer Applications 173.
 
 ### 2020
-1. Triet Huynh Minh Le, David Hin, Roland Croft, and M. Ali Babar, “PUMiner: Mining security posts from developer question and answer websites with PU learning,” in Proceedings of the 17th International Conference on Mining Software Repositories (MSR), Seoul, South Korea, 2020.
-- Mojtaba Shahin, and M. Ali Babar, “On the Role of Software Architecture in DevOps Transformation: An Industrial Case Study”, International Conference on Software and System Processes (ICSSP), Seoul, South Korea, 2020.
-- Triet Huynh Minh Le, Hao Chen, and M. Ali Babar, “Deep Learning for Source Code Modeling and Generation: Models, Applications and Challenges,” ACM Computing Surveys (CSUR), 2020.
-- Mansooreh Zahedi, Roshan Namal Rajapakse and M Ali Babar: “Mining Questions Asked about Continuous Software Engineering: A Case Study of Stack Overflow”, The International Conference on Evaluation and Assessment in Software Engineering (EASE), 2020.
-- Nguyen Khoi Tran, and M. Ali Babar,  “Anatomy, concept, & design space of blockchain networks”, International Conference on Software Architecture (ICSA), 2020.
-- Jamal EL Hachem, Vanea Chiprianov, M Ali Babar, Tarek AL Khalil, Philippe Aniorte, “Modeling, analyzing and predicting security cascading attacks in smart buildings systems-of-systems”, Journal of Systems and Software, Volume 162, 2020. DOI: https://doi.org/10.1016/j.jss.2019.110484.
-- Victor Prokhorenko, M Ali Baba, “Architectural Resilience in Cloud, Fog and Edge Systems: A Survey”, IEEE Access, 8, 28078-28095.
-- Nguyen Khoi Tran, M Ali Babar, Jonathan Boan, "Integrating blockchain and Internet of Things systems: A systematic review on objectives and designs", Journal of Network and Computer Applications, 2020.
-- Nguyen Khoi Tran, M Ali Babar, "Anatomy, Concept, and Design Space of Blockchain Networks", 2020 IEEE International Conference on Software Architecture (ICSA), 2020.
-- Leonardo Horn Iwaya, Aakash Ahmad, M Ali Babar, "Security and Privacy for mHealth and uHealth Systems: a Systematic Mapping Study", IEEE Access, 2020.
-- Chadni Islam, Muhammad Ali Babar, Surya Nepal, "Architecture-centric support for integrating security tools in a security orchestration platform", European Conference on Software Architecture, 2020.
-- Yaser Mansouri, Victor Prokhorenko, M Ali Babar, "An automated implementation of hybrid cloud for performance evaluation of distributed databases", Journal of Network and Computer Applications, 2020.
-- Mubin Ul Haque, Leonardo Horn Iwaya, M Ali Babar, "Challenges in Docker Development: A Large-scale Study Using Stack Overflow", Proceedings of the 14th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2020.
-- Shanshan Li, He Zhang, Zijia Jia, Chenxing Zhong, Cheng Zhang, Zhihao Shan, Jinfeng Shen, Muhammad Ali Babar, "Understanding and Addressing Quality Attributes of Microservices Architecture: A Systematic Literature Review", Information and Software Technology, 2020.
+1. B Sabir, F Ullah, MA Babar, R Gaire, "Machine Learning for Detecting Data Exfiltration: A Review", arXiv preprint arXiv:2012.09344.
+
+- Q Xu, X Chen, S Li, H Zhang, MA Babar, NK Tran, "Blockchain-based Solutions for IoT: A Tertiary Study", 2020 IEEE 20th International Conference on Software Quality.
+
+- B Aljedaani, A Ahmad, M Zahedi, MA Babar, "An Empirical Study on Developing Secure Mobile Health Apps: The Developers' Perspective", 2020 27th Asia-Pacific Software Engineering Conference (APSEC).
+
+- H Zhang, X Zhou, X Huang, H Huang, MA Babar, "An evidence-based inquiry into the use of grey literature in software engineering", 2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE ….
+
+- MU Haque, LH Iwaya, MA Babar, "Challenges in docker development: A large-scale study using stack overflow", Proceedings of the 14th ACM/IEEE International Symposium on Empirical ….
+
+- Y Mansouri, V Prokhorenko, MA Babar, "An automated implementation of hybrid cloud for performance evaluation of distributed databases", Journal of Network and Computer Applications 167.
+
+- A Mohsin, NK Janjua, SMS Islam, MA Babar, "Sam-sos: A stochastic software architecture modeling and verification approach for complex system-of-systems", IEEE Access 8.
+
+- C Islam, MA Babar, S Nepal, "Architecture-centric support for integrating security tools in a security orchestration platform", European Conference on Software Architecture.
+
+- B Aljedaani, A Ahmad, M Zahedi, MA Babar, "Security Awareness of End-Users of Mobile Health Applications: An Empirical Study", arXiv preprint arXiv:2008.13009.
+
+- LH Iwaya, A Ahmad, MA Babar, "Security and privacy for mhealth and uhealth systems: A systematic mapping study", IEEE Access 8.
+
+- THM Le, R Croft, D Hin, MA Babar, "A Large-scale Study of Security Vulnerability Support on Developer Q&A Websites", arXiv preprint arXiv:2008.04176.
+
+- THM Le, R Croft, D Hin, MA Babar, "Demystifying the Mysteries of Security Vulnerability Discussions on Developer Q&A Sites", arXiv e-prints.
+
+- Y Mansouri, MA Babar, "The Impact of Distance on Performance and Scalability of Distributed Database Systems in Hybrid Clouds", arXiv preprint arXiv:2007.15826.
+
+- M Shahin, MA Babar, MA Chauhan, "Architectural design space for modelling and simulation as a service: A review", Journal of Systems and Software.
+
+- THM Le, D Hin, R Croft, MA Babar, "PUMiner: Mining Security Posts from Developer Question and Answer Websites with PU Learning", Proceedings of the 17th International Conference on Mining Software ….
+
+- M Shahin, MA Babar, "On the role of software architecture in DevOps transformation: An industrial case study", Proceedings of the International Conference on Software and System Processes ….
+
+- THM Le, H Chen, MA Babar, "Deep learning for source code modeling and generation: Models, applications, and challenges", ACM Computing Surveys (CSUR) 53 (3).
+
+- L Horn Iwaya, A Ahmad, MA Babar, "Security and Privacy for mHealth and uHealth Systems: a Systematic Mapping Study", arXiv e-prints.
+
+- B Sabir, MA Babar, R Gaire, "An evasion attack against ml-based phishing url detectors", arXiv preprint arXiv:2005.08454.
+
+- M Zahedi, RN Rajapakse, MA Babar, "Mining questions asked about continuous software engineering: A case study of stack overflow", Proceedings of the Evaluation and Assessment in Software Engineering.
+
+- JEL Hachem, V Chiprianov, MA Babar, TAL Khalil, P Aniorte, "Modeling, analyzing and predicting security cascading attacks in smart buildings systems-of-systems", Journal of Systems and Software 162.
+
+- NK Tran, MA Babar, "Anatomy, Concept, and Design Space of Blockchain Networks", 2020 IEEE International Conference on Software Architecture (ICSA).
+
+- V Prokhorenko, MA Babar, "Architectural resilience in cloud, fog and edge systems: A survey", IEEE Access 8.
+
+- F Tian, F Lu, P Liang, MA Babar, "Automatic Identification of Architecture Smell Discussions from Stack Overflow.", SEKE.
+
+- MU Tariq, MB Bashir, M Babar, A Sohail, "Code readability management of high-level programming languages: a comparative study", International Journal of Advanced Computer Science and Applications (IJACSA ….
 
 
 

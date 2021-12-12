@@ -1,0 +1,10 @@
+{
+    "id": "short-text-spam",
+    "title": "Short Text Spam Detection using Deep Learning",
+    "tagline": "Short Text Spam Detection using Deep Learning",
+    "excerpt": "Presentation of the project titled Short Text Spam Detection using Deep Learning for the Advanced Topics in Software Engineering course at #UniversityofAdelaide",
+    "image": "../../images/video/1.webp",
+    "author": "Joshua Dixon",
+    "supervisors": "Bushra Sabir, M. Ali Babar",
+    "video": "https://www.youtube.com/watch?v=KQJD4Yn5slw"
+}

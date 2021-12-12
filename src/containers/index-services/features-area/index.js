@@ -9,30 +9,18 @@ import { SectionWrap } from './features-area.stc'
 const FeaturesArea = ({ slider, sliderStyle }) => {
     const featuresData = useStaticQuery(graphql`
         query ServicesFeaturesQuery {
-            allItSolutionsJson(limit: 6) {
+            allPresentationsJson(limit: 6) {
                 edges {
                     node {
-                        fields {
-                            slug
-                        }
                         id
                         title
                         excerpt
-                        icon {
-                            img {
-                                childImageSharp {
-                                    fixed(width: 80, height: 83, quality: 100) {
-                                        ...GatsbyImageSharpFixed_tracedSVG
-                                    }
-                                }
-                            }
-                        }
                     }
                 }
             }
         }
     `)
-    const features = featuresData.allItSolutionsJson.edges
+    const features = featuresData.allPresentationsJson.edges
     return (
         <SectionWrap>
             <GridLine />

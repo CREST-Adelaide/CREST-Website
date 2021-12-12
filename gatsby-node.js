@@ -45,13 +45,13 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
             value: slugify(node.title)
         })
     }
-    if (node.internal.type === 'ItSolutionsJson') {
-        createNodeField({
-            node,
-            name: "slug",
-            value: slugify(node.title)
-        })
-    }
+    // if (node.internal.type === 'ItSolutionsJson') {
+    //     createNodeField({
+    //         node,
+    //         name: "slug",
+    //         value: slugify(node.title)
+    //     })
+    // }
     if (node.internal.type === 'CaseStudiesJson') {
         createNodeField({
             node,
@@ -66,7 +66,7 @@ exports.createPages = async ({ graphql, actions }) => {
     const { createPage } = actions;
 
     const servicePage = path.resolve("./src/templates/service-template/service-template.js")
-    const solutionPage = path.resolve("./src/templates/it-solution-template/it-solution-template.js")
+    // const solutionPage = path.resolve("./src/templates/it-solution-template/it-solution-template.js")
     const caseStudyPage = path.resolve("./src/templates/case-study-template/case-study-template.js")
     const singleBlogPage = path.resolve("./src/templates/blog-template/blog-template.js")
     const blogList = path.resolve("./src/templates/blog-list/blog-list.js");
@@ -88,7 +88,7 @@ exports.createPages = async ({ graphql, actions }) => {
                     }
                 }
             }  
-            allItSolutionsJson {
+            allPresentationsJson {
                 edges {
                     node {
                         fields {
@@ -205,16 +205,16 @@ exports.createPages = async ({ graphql, actions }) => {
     });
 
     // Create Single IT Solution page
-    const itsolutions = result.data.allItSolutionsJson.edges;
-    itsolutions.forEach(({ node }) => {
-        createPage({
-            path: `it-solution/${node.fields.slug}`,
-            component: solutionPage,
-            context: {
-                slug: node.fields.slug
-            }
-        })
-    });
+    // const itsolutions = result.data.allItSolutionsJson.edges;
+    // itsolutions.forEach(({ node }) => {
+    //     createPage({
+    //         path: `it-solution/${node.fields.slug}`,
+    //         component: solutionPage,
+    //         context: {
+    //             slug: node.fields.slug
+    //         }
+    //     })
+    // });
 
     // Create Single Case Study Page
 

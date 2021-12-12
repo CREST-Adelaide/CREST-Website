@@ -16,7 +16,7 @@ import {
     BoxLargeImgLink,
     BoxLargeImgContent} from './box-large-image.style'
 
-const BoxLargeImage = ({imageSrc, title, desc, path, ...boxStyles}) => {
+const BoxLargeImage = ({imageSrc, title, desc, video, path, ...boxStyles}) => {
     const {headingStyle, descStyle, buttonStyle, ...restStyles} = boxStyles;
     let boxImage;
     if(imageSrc.fixed && typeof imageSrc.fixed !== 'function'){
@@ -35,17 +35,17 @@ const BoxLargeImage = ({imageSrc, title, desc, path, ...boxStyles}) => {
                         {boxImage}
                         <BoxLargeImgBtnWrap>
                             <BoxLargeImgBtnInner>
-                                <Button {...buttonStyle} to={path}>Learn more</Button>
+                                <Button {...buttonStyle} to={video}>Watch</Button>
                             </BoxLargeImgBtnInner>
                         </BoxLargeImgBtnWrap>
                         <BoxLargeImgHeading>
-                            {title && <HeadingWrap as="h5" {...headingStyle}>{title}</HeadingWrap>}
+                            {/* {title && <HeadingWrap as="p" {...headingStyle}>{title}</HeadingWrap>} */}
                         </BoxLargeImgHeading>
-                        <BoxLargeImgLink path={path}>{title}</BoxLargeImgLink>
+                        <BoxLargeImgLink path={video}>{title}</BoxLargeImgLink>
                     </BoxLargeImgMedia>
                 )}
                 <BoxLargeImgContent>
-                    {desc && <TextWrap {...descStyle}>{parse(desc)}</TextWrap>}
+                    {title && <TextWrap {...descStyle}>{parse(title)}</TextWrap>}
                 </BoxLargeImgContent>
             </BoxLargeImgInner>
         </BoxLargeImgWrap>
