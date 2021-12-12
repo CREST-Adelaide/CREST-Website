@@ -87,16 +87,7 @@ exports.createPages = async ({ graphql, actions }) => {
                         }
                     }
                 }
-            }  
-            allPresentationsJson {
-                edges {
-                    node {
-                        fields {
-                            slug
-                        }
-                    }
-                }
-            }  
+            } 
             allCaseStudiesJson{
                 edges {
                     node {
