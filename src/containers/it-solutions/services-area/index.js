@@ -39,14 +39,14 @@ const ServicesArea = (props) => {
     return (
         <SectionWrap>
             <Container>
-                <Row>
+                {/* <Row>
                     <Col lg={12}>
                         <SectionTitle
                             subtitle="Our Presentation"
                             title="CREST Reserch Center"
                         />
                     </Col>
-                </Row>
+                </Row> */}
                 <Row>
                     {services.map(service => (
                         <Col lg={3} md={3} className="box-item" key={service.node.id}>
