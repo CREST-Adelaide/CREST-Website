@@ -130,7 +130,6 @@ is_featured: true
 
 - F Tian, F Lu, P Liang, MA Babar, "Automatic Identification of Architecture Smell Discussions from Stack Overflow.", SEKE.
 
-- MU Tariq, MB Bashir, M Babar, A Sohail, "Code readability management of high-level programming languages: a comparative study", International Journal of Advanced Computer Science and Applications (IJACSA ….
 
 
 
