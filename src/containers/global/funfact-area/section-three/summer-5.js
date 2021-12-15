@@ -1,18 +1,18 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { useStaticQuery, graphql } from "gatsby"
-import {Container, Row, Col} from '../../../../components/ui/wrapper'
+import { Container, Row, Col } from '../../../../components/ui/wrapper'
 import Heading from '../../../../components/ui/heading'
 import Counter from '../../../../components/counter/layout-three'
-import {SectionWrap2, HeaderWrap} from './section.style'
+import { SectionWrap, HeaderWrap } from './section.style'
 import parse from 'html-react-parser'
 import Image from '../../../../components/image'
 import { TwitterTimelineEmbed, TwitterTweetEmbed, TwitterOnAirButton } from "react-twitter-embed";
 
 const Section = ({ markHeading, headingStyle2 }) => {
     const HeroData = useStaticQuery(graphql`
-        query ProcessingProject2Query {
-            indexProcessingJson(id: {eq: "summer-scholarship-project2"}) {
+        query ProcessingProject5Query {
+            indexProcessingJson(id: {eq: "summer-scholarship-project5"}) {
                 title
                 projectdetail
                 supervisor
@@ -21,7 +21,7 @@ const Section = ({ markHeading, headingStyle2 }) => {
                 studentemail
                 studentphoto {
                     childImageSharp {
-                      fluid(maxWidth: 768, maxHeight: 768, quality: 100) {
+                      fluid(maxWidth: 180, maxHeight: 180, quality: 100) {
                         ...GatsbyImageSharpFluid_tracedSVG
                         presentationWidth
                         presentationHeight
@@ -34,7 +34,7 @@ const Section = ({ markHeading, headingStyle2 }) => {
     `)
     const { title, projectdetail, student, twitterid, studentphoto, studentprofile, supervisor } = HeroData.indexProcessingJson;
     return (
-        <SectionWrap2>
+        <SectionWrap>
             <Container>
                 <Row>
                     <Col lg={{ span: 12 }}>
@@ -48,7 +48,7 @@ const Section = ({ markHeading, headingStyle2 }) => {
                                     <p style={{ fontSize: 20 }}>{"Supervised by: " + parse(supervisor)}</p>
                                 </HeaderWrap>
                                 <br />
-                                <Image fluid={studentphoto.childImageSharp.fluid} alt={student} align="left" />
+                                <Image fluid={studentphoto.childImageSharp.fluid} alt={student} align="left" style={{height: 180, width: 180}} />
                                 <p style={{ fontSize: 24, paddingTop: 30, fontWeight: 500 }}>{parse(student)}</p>
                                 <p style={{ fontSize: 16 }}>{parse(studentprofile)}</p>
                             </Col>
@@ -61,17 +61,17 @@ const Section = ({ markHeading, headingStyle2 }) => {
                     </Col>
                 </Row>
             </Container>
-        </SectionWrap2>
+        </SectionWrap>
     )
 }
-  
+
 Section.propTypes = {
     markHeading: PropTypes.object,
     headingStyle: PropTypes.object
 }
- 
+
 Section.defaultProps = {
-    markHeading:{
+    markHeading: {
         layout: 'highlight',
     },
     headingStyle: {

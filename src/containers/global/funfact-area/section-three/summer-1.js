@@ -14,12 +14,14 @@ const Section = ({ markHeading, headingStyle2 }) => {
         query ProcessingProject1Query {
             indexProcessingJson(id: {eq: "summer-scholarship-project1"}) {
                 title
+                projectdetail
                 supervisor
                 student
+                twitterid
                 studentemail
                 studentphoto {
                     childImageSharp {
-                      fluid(maxWidth: 768, maxHeight: 768, quality: 100) {
+                      fluid(maxWidth: 180, maxHeight: 180, quality: 100) {
                         ...GatsbyImageSharpFluid_tracedSVG
                         presentationWidth
                         presentationHeight
@@ -30,7 +32,7 @@ const Section = ({ markHeading, headingStyle2 }) => {
             }
         }
     `)
-    const { title, student, studentphoto, studentprofile, supervisor } = HeroData.indexProcessingJson;
+    const { title, projectdetail, student, twitterid, studentphoto, studentprofile, supervisor } = HeroData.indexProcessingJson;
     return (
         <SectionWrap>
             <Container>
@@ -40,18 +42,20 @@ const Section = ({ markHeading, headingStyle2 }) => {
                         <Row>
                             <Col lg={8}>
                                 <HeaderWrap>
-                                    {/* <Heading {...markHeading}>{title}</Heading> */}
                                     <Heading  {...headingStyle2}>{title}</Heading>
+                                    <p style={{ fontSize: 16 }}>{parse(projectdetail)}</p>
                                     <br />
                                     <p style={{ fontSize: 20 }}>{"Supervised by: " + parse(supervisor)}</p>
                                 </HeaderWrap>
-                                <Image fluid={studentphoto.childImageSharp.fluid} alt={student} align="left" />
+                                <br />
+                                <Image fluid={studentphoto.childImageSharp.fluid} alt={student} align="left" style={{height: 180, width: 180}} />
                                 <p style={{ fontSize: 24, paddingTop: 30, fontWeight: 500 }}>{parse(student)}</p>
-                                <p style={{ fontSize: 20 }}>{parse(studentprofile)}</p>
+                                <p style={{ fontSize: 16 }}>{parse(studentprofile)}</p>
                             </Col>
                             <Col lg={4} sm={12}>
                                 <TwitterTweetEmbed
-                                    tweetId={'1467705139398004737'} />
+                                    id={twitterid}
+                                    tweetId={twitterid} />
                             </Col>
                         </Row>
                     </Col>

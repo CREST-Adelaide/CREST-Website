@@ -7,7 +7,9 @@ import Footer from '../containers/layout/footer/footer-one'
 import HeroArea from '../containers/index-processing/hero-area'
 import Project1 from '../containers/global/funfact-area/section-three/summer-1'
 import Project2 from '../containers/global/funfact-area/section-three/summer-2'
-
+import Project3 from '../containers/global/funfact-area/section-three/summer-3'
+import Project4 from '../containers/global/funfact-area/section-three/summer-4'
+import Project5 from '../containers/global/funfact-area/section-three/summer-5'
 
 const IcdmPage = ({ pageContext, location }) => (
     <Layout location={location}>
@@ -25,20 +27,10 @@ const IcdmPage = ({ pageContext, location }) => (
             {/* <AboutArea />
             <FeaturesArea /> */}
             <div id="project1"><Project1 /></div>
-            {/* <div id="project2"><Project2 /></div> */}
-            {/* <div id="scope"><Scope /></div>
-
-            <div id="topics"><Topics /></div>
-
-            <div id="guest"><Speaker /></div>
-
-            <div id="submission"><Submission /></div>
-            <div id="important"><Important /></div>
-
-            <div id="organisation"><Organisation /></div>
-
-            <div id="contact"><Contact /></div> */}
-
+            <div id="project2"><Project2 /></div>
+            <div id="project3"><Project3 /></div>
+            <div id="project4"><Project4 /></div>
+            <div id="project5"><Project5 /></div>
         </main>
         <Footer />
     </Layout>

@@ -11,8 +11,8 @@ import { TwitterTimelineEmbed, TwitterTweetEmbed, TwitterOnAirButton } from "rea
 
 const Section = ({ markHeading, headingStyle2 }) => {
     const HeroData = useStaticQuery(graphql`
-        query ProcessingProject2Query {
-            indexProcessingJson(id: {eq: "summer-scholarship-project2"}) {
+        query ProcessingProject4Query {
+            indexProcessingJson(id: {eq: "summer-scholarship-project4"}) {
                 title
                 projectdetail
                 supervisor
