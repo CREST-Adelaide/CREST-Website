@@ -910,6 +910,32 @@
         "is_featured": true
     },
     {
+        "id": "mehdi-kholoosi",
+        "name": "Mehdi Kholoosi",
+        "designation": "PhD (Incoming)",
+        "position": "phdstudents",
+        "introduction": "Mehdi Kholoosi is a Ph.D. student with the Center for Research on Engineering Software Technologies (CREST) at the University of Adelaide under the supervision of Professor M. Ali Babar. His research interests lie in Cybersecurity and Natural Language Processing, as well as their interdisciplinary applications. Previously his publications were in the areas of Machine Translation and Text Mining. He received his Master’s degree in computer software engineering from Shiraz University.",
+        "images": {
+            "large": "../images/team/mehdi.png",
+            "medium": "../images/team/mehdi.png"
+        },
+        "image": "../images/team/mehdi.png",
+        "competencies": "Vulnerability Analytics, Container Security, Text Mining, Machine Learning, NLP, Mining Software Repositories, Automated Vulnerability Prediction",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
         "id": "zahra-mousavi",
         "name": "Zahra Mousavi",
         "designation": "PhD (Incoming)",
@@ -921,32 +947,6 @@
         },
         "image": "../images/team/Zahra.jpg",
         "competencies": "Machine Learning, Deep Learning, Natural Language Processing, Semantics, Word Sense Disambiguation, Machine Translation",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "(Incoming PhD Students)",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
-        "id": "mehdi-kholoosi",
-        "name": "Mehdi Kholoosi",
-        "designation": "PhD (Incoming)",
-        "position": "phdstudents",
-        "introduction": "Mehdi Kholoosi is a Ph.D. student with the Center for Research on Engineering Software Technologies (CREST) at the University of Adelaide under the supervision of Professor M. Ali Babar. His research interests lie in Cybersecurity and Natural Language Processing, as well as their interdisciplinary applications. Previously his publications were in the areas of Machine Translation and Text Mining. He received his Master’s degree in computer software engineering from Shiraz University.",
-        "images": {
-            "large": "../images/team/mehdi.jpg",
-            "medium": "../images/team/mehdi.jpg"
-        },
-        "image": "../images/team/mehdi.jpg",
-        "competencies": "Vulnerability Analytics, Container Security, Text Mining, Machine Learning, NLP, Mining Software Repositories, Automated Vulnerability Prediction",
         "socials": {
             "facebook": "",
             "twitter": "",
@@ -1273,7 +1273,6 @@
         "researchlink": "",
         "is_featured": true
     },
-
     {
         "id": "hien-le",
         "name": "Hien Le",
