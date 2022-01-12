@@ -912,7 +912,7 @@
     {
         "id": "mehdi-kholoosi",
         "name": "Mehdi Kholoosi",
-        "designation": "PhD (Incoming)",
+        "designation": "PhD",
         "position": "phdstudents",
         "introduction": "Mehdi Kholoosi is a Ph.D. student with the Center for Research on Engineering Software Technologies (CREST) at the University of Adelaide under the supervision of Professor M. Ali Babar. His research interests lie in Cybersecurity and Natural Language Processing, as well as their interdisciplinary applications. Previously his publications were in the areas of Machine Translation and Text Mining. He received his Master’s degree in computer software engineering from Shiraz University.",
         "images": {
@@ -923,7 +923,7 @@
         "competencies": "Vulnerability Analytics, Container Security, Text Mining, Machine Learning, NLP, Mining Software Repositories, Automated Vulnerability Prediction",
         "socials": {
             "facebook": "",
-            "twitter": "",
+            "twitter": "https://twitter.com/MehdiKholoosi",
             "instagram": "",
             "personalwebsite": "",
             "linkedin": "",
@@ -938,9 +938,9 @@
     {
         "id": "zahra-mousavi",
         "name": "Zahra Mousavi",
-        "designation": "PhD (Incoming)",
+        "designation": "PhD",
         "position": "phdstudents",
-        "introduction": "I have received my B.Sc. from Alzahra University, Iran in Software Engineering and my M.Sc. in Machine Intelligence from the University of Tehran, Iran and I am going to start my PhD with the Center for Research on Engineering Software Technologies (CREST) at the University of Adelaide under the supervision of Professor M. Ali Babar. My research interests include Natural language Processing and Information Extraction using Deep Learning methods and their applications in the Cyber Security domain. I have already worked on constructing a Persian wordnet and improving machine translation using this wordnet and verb sense disambiguation.",
+        "introduction": "Zahra is a Ph.D. student with the Center for Research on Engineering Software Technologies (CREST) at the University of Adelaide under the supervision of Professor M. Ali Babar. Her research interests include Natural language Processing and Information Extraction using Deep Learning methods and their applications in the Cyber Security domain. She has already worked on constructing a Persian wordnet and improving machine translation using this wordnet and verb sense disambiguation. She received her B.Sc. from Alzahra University, Iran in Software Engineering and her M.Sc. in Machine Intelligence from the University of Tehran, Iran.",
         "images": {
             "large": "../images/team/Zahra.jpg",
             "medium": "../images/team/Zahra.jpg"
@@ -949,22 +949,22 @@
         "competencies": "Machine Learning, Deep Learning, Natural Language Processing, Semantics, Word Sense Disambiguation, Machine Translation",
         "socials": {
             "facebook": "",
-            "twitter": "",
+            "twitter": "https://twitter.com/mousavi_sz",
             "instagram": "",
             "personalwebsite": "",
-            "linkedin": "",
+            "linkedin": "https://www.linkedin.com/sz-mousavi-09a388108",
             "github": "",
             "googlescholar": ""
         },
         "projecturl": "",
-        "researchtopic": "(Incoming PhD Students)",
+        "researchtopic": "",
         "researchlink": "",
         "is_featured": true
     },
     {
         "id": "ali-kazemi",
         "name": "Ali Kazemi Arani",
-        "designation": "PhD (Incoming)",
+        "designation": "PhD",
         "position": "phdstudents",
         "introduction": "Currently, I am a Ph.D. student with the Center for Research on Engineering Software Technologies (CREST) at the University of Adelaide under the supervision of Professor Muhammad Ali Babar and Dr. Mansooreh Zahedi. Prior to joining CREST, I was working as backend developer and data analyzer at Sciences Green Institute. My research interests lie in employing machine learning algorithms for optimizing software delivery in continuous software engineering paradigm and DevOps. I have completed my master of science (M.Sc.) at Amirkabir University of Technology (AUT), and bachelor of science (B.Sc.) at Khajeh Nasir Toosi University of Technology (KNTU), Tehran, Iran. ",
         "images": {
@@ -975,15 +975,15 @@
         "competencies": "Continuous Software Engineering, DevOps, Machine Learning, Data Mining",
         "socials": {
             "facebook": "",
-            "twitter": "",
+            "twitter": "https://twitter.com/KazemiAli_",
             "instagram": "",
             "personalwebsite": "",
-            "linkedin": "",
+            "linkedin": "https://linkedin.com/in/ali-kazemi-arani-a8739552",
             "github": "",
             "googlescholar": ""
         },
         "projecturl": "",
-        "researchtopic": "(Incoming PhD Students)",
+        "researchtopic": "",
         "researchlink": "",
         "is_featured": true
     },
