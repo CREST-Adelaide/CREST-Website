@@ -47,19 +47,22 @@ const IcdmPage = ({ pageContext, location }) => (
                 <Row>
                     <Col lg={12}>
                         <Row>
-                            <Col md={4} sm={12}>
+                            <Col md={3} sm={12}>
+                                <TwitterTweetEmbed
+                                    tweetId={'1487031306592550912'} />
+                            </Col>
+                            <Col md={3} sm={12}>
                                 <TwitterTweetEmbed
                                     tweetId={'1472711940518539267'} />
                             </Col>
-                            <Col md={4} sm={12}>
+                            <Col md={3} sm={12}>
                                 <TwitterTweetEmbed
                                     tweetId={'1471991240509976577'} />
                             </Col>
-                            <Col md={4} sm={12}>
+                            <Col md={3} sm={12}>
                                 <TwitterTweetEmbed
                                     tweetId={'1471323216341651457'} />
                             </Col>
-
                         </Row>
                     </Col>
                 </Row>

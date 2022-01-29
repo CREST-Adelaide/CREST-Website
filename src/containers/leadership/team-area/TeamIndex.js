@@ -526,7 +526,7 @@ researchlink,
 
                 <Row>
                     <Col lg={12}>
-                        <Heading {...headingStyle}><span>Master Student</span></Heading>
+                        <Heading {...headingStyle}><span>Master and Bachelor Student</span></Heading>
                     </Col>
                 </Row>
                 <Row {...headTeamRowStyle}>
@@ -544,7 +544,7 @@ researchlink,
                         </Col>
                     ))}
                 </Row>
-                <Row>
+                {/* <Row>
                     <Col lg={12}>
                         <Heading {...headingStyle}><span>Bachelor Student</span></Heading>
                     </Col>
@@ -563,7 +563,7 @@ researchlink,
                             />
                         </Col>
                     ))}
-                </Row>
+                </Row> */}
                 <Row>
                     <Col lg={12}>
                         <Heading {...headingStyle}><span>Collaborators and Associates</span></Heading>

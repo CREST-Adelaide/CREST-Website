@@ -858,32 +858,6 @@
         "is_featured": true
     },
     {
-        "id": "david-hin",
-        "name": "David Hin",
-        "designation": "PhD",
-        "position": "phdstudents",
-        "introduction": "David Hin is currently a Ph.D. student at the University of Adelaide under the supervision of Professor M. Ali Babar and Dr. Huaming Chen. His area of research focuses on machine learning-assisted secure software development, with a particular interest in software vulnerabilities. Other interests include learning from big code, natural language processing, program comprehension, graph representations, and explainable AI.",
-        "images": {
-            "large": "../images/team/david.jpg",
-            "medium": "../images/team/david.jpg"
-        },
-        "image": "../images/team/david.jpg",
-        "competencies": "Mining software repositories, natural Language processing, security/vulnerability analytics, machine learning",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
         "id": "isuru-dharmadasa",
         "name": "Isuru Dharmadasa",
         "designation": "PhD",
@@ -1170,6 +1144,32 @@
         "is_featured": true
     },
     {
+        "id": "xu-zhan",
+        "name": "Xu Zhan",
+        "designation": "Research Assistant",
+        "position": "assistants",
+        "introduction": "I am a current MSc Data Science graduate student from the University of Adelaide. My academic background is mechatronic engineering and data science and my main research focus on computer vision and natural language processing.  This project is supervised by Dr. Aufeef Chauhan and Professor Ali Babar.  I am excited to apply cutting-edge computer vision and natural language processing technologies to more real life products.",
+        "images": {
+            "large": "../images/team/xuzhan.png",
+            "medium": "../images/team/xuzhan.png"
+        },
+        "image": "../images/team/xuzhan.png",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
         "id": "hao-chen",
         "name": "Hao Chen",
         "designation": "PhD",
@@ -1303,7 +1303,7 @@
         "id": "hien-le",
         "name": "Hien Le",
         "designation": "Master Student",
-        "position": "masterstudents",
+        "position": "alumni",
         "introduction": "Hien Le is a final year Master of Data Science student at the University of Adelaide. Hien obtained her bachelor’s degree in Accounting and Finance at the University of Melbourne. Hien received both scholarships on entry for her academic merit and was awarded Executive Dean’s Recognition of Academic Excellence by the University of Adelaide. Hien is currently working on a research project regarding automated cyber threat analysis module under the supervision of Professor Ali Babar and Dr. Chadni Islam. The research seeks to predict security incident and estimate financial impact of cyber-attacks on organisations from threat intelligence data by utilising Machine Learning and Artificial Intelligence techniques. Hien is enthusiastic about opportunities that allow her to combine both interests in data science and finance.",
         "images": {
             "large": "../images/team/hienle.jpg",
@@ -1355,7 +1355,7 @@
         "id": "minhaj-ahmed",
         "name": "Minhaj Ahmed",
         "designation": "Bachelor Student",
-        "position": "bachelorstudents",
+        "position": "masterstudents",
         "introduction": "Minhaj Ahmed is a second year Bachelor of Computer Science (Advanced) student at The University of Adelaide. Minhaj has received a scholarship on his admission at The University of Adelaide based on academic merit. His fascination towards research has propelled Minhaj to get involved in project works, and he is working on a project which focuses on studying an existing incident response plan associated with a security attack and identifying the key features of the incident response process. The research is being supervised by Professor M. Ali Babar and Dr. Chadni Islam. The involvement of Artificial Intelligence and Cybersecurity in the topic attracted the interest of Minhaj, and he is excited to leverage on the opportunity to explore techniques related to natural language processing and data analytics.",
         "images": {
             "large": "../images/team/minhaj.png",
@@ -1363,6 +1363,32 @@
         },
         "image": "../images/team/minhaj.png",
         "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "david-hin",
+        "name": "David Hin",
+        "designation": "Honour Student",
+        "position": "alumni",
+        "introduction": "David Hin is currently a Ph.D. student at the University of Adelaide under the supervision of Professor M. Ali Babar and Dr. Huaming Chen. His area of research focuses on machine learning-assisted secure software development, with a particular interest in software vulnerabilities. Other interests include learning from big code, natural language processing, program comprehension, graph representations, and explainable AI.",
+        "images": {
+            "large": "../images/team/david.jpg",
+            "medium": "../images/team/david.jpg"
+        },
+        "image": "../images/team/david.jpg",
+        "competencies": "Mining software repositories, natural Language processing, security/vulnerability analytics, machine learning",
         "socials": {
             "facebook": "",
             "twitter": "",

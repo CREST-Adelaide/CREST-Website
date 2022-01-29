@@ -31,9 +31,9 @@ const TeamPage = ({ pageContext, location }) => (
 
             </TabHeader>
             <TabHeader>
-                <NavItem><Link to="/team/masterstudents">Master Students</Link></NavItem>
-                <NavItem><Link to="/team/bachelorstudents">Bachelor Students</Link></NavItem>
-                <NavItem><Link to="/student-projects">Project Students</Link></NavItem>
+                <NavItem><Link to="/team/masterstudents">Master and Bechelor Students</Link></NavItem>
+                {/* <NavItem><Link to="/team/bachelorstudents">Bachelor Students</Link></NavItem> */}
+                <NavItem><Link to="/summer-scholarships">Project Students</Link></NavItem>
 
                 <NavItem><Link to="/team/collaborators-and-associates">Collaborators and Associates</Link></NavItem>
                 <NavItem><Link to="/team/alumni">Alumni</Link></NavItem>
