@@ -18,6 +18,7 @@ import Submission from '../containers/global/funfact-area/section-three/icdm-sub
 import Important from '../containers/global/funfact-area/section-three/icdm-important'
 import Organisation from '../containers/global/funfact-area/section-three/icdm-organization'
 import Contact from '../containers/global/funfact-area/section-three/icdm-contact'
+import { TwitterTimelineEmbed, TwitterTweetEmbed, TwitterOnAirButton } from "react-twitter-embed";
 // import ContactArea from '../containers/global/contact-area/contact-three/icdm-contact'
 // import ContactArea from '../containers/global/contact-area/contact-three'
 
@@ -137,6 +138,44 @@ const CyberAI = ({ pageContext, location }) => (
                                 <br />
                                 Her research interests include but are not limited computer forensics & AI, data privacy protection, cyber-attacks detection using deep learning, and Digital Forensics as a Service (DFaaS).
                             </p>
+                        </Col>
+                    </Row>
+                </Container>
+                <Container>
+
+                    <Row>
+                        <Col lg={6}>
+                            <ClientBox>
+                                <Heading style={{
+                                    as: 'h6',
+                                    fontweight: '500',
+                                    mb: '.25rem'
+                                }}>{"About the activity"}</Heading>
+                            </ClientBox>
+                        </Col>
+
+                    </Row>
+                </Container>
+                <br />
+
+                <Container>
+
+                    <Row>
+                        <Col lg={12}>
+                            <Row>
+                                <Col md={4} sm={12}>
+                                    <TwitterTweetEmbed
+                                        tweetId={'1501001001331232771'} />
+                                </Col>
+                                <Col md={4} sm={12}>
+                                    <TwitterTweetEmbed
+                                        tweetId={'1501003233187495937'} />
+                                </Col>
+                                <Col md={4} sm={12}>
+                                    <TwitterTweetEmbed
+                                        tweetId={'1501049212997607427'} />
+                                </Col>
+                            </Row>
                         </Col>
                     </Row>
                 </Container>

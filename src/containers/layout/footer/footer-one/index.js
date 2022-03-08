@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types';
 import { useStaticQuery, graphql } from "gatsby"
-import { TiSocialFacebook, TiSocialTwitter, TiSocialInstagram, TiSocialLinkedin } from "react-icons/ti";
+import { TiSocialFacebook, TiSocialTwitter, TiSocialInstagram, TiSocialLinkedin, TiSocialYoutube } from "react-icons/ti";
 import parse from 'html-react-parser'
 import { Container } from 'react-bootstrap'
 import Logo from '../../../../assets/images/logo/dark-logo-150.png'
@@ -40,6 +40,7 @@ const Footer = ({ copyrightStyle, ...props }) => {
                         twitter
                         instagram
                         linkedin
+                        youtube
                     }
                 }
             }
@@ -47,7 +48,7 @@ const Footer = ({ copyrightStyle, ...props }) => {
     `)
     const { phone, email, address, website } = siteInfo.site.siteMetadata.contact;
     const { copyright } = siteInfo.site.siteMetadata;
-    const { facebook, twitter, instagram, linkedin } = siteInfo.site.siteMetadata.social;
+    const { facebook, twitter, instagram, linkedin, youtube } = siteInfo.site.siteMetadata.social;
     return (
         <FooterWrap {...props}>
             <FooterBottom>
@@ -87,6 +88,13 @@ const Footer = ({ copyrightStyle, ...props }) => {
                                         path={linkedin}
                                         title="Linkedin">
                                         <TiSocialLinkedin />
+                                    </SocialLink>
+                                )}
+                                {youtube && (
+                                    <SocialLink
+                                        path={youtube}
+                                        title="Youtube">
+                                        <TiSocialYoutube />
                                     </SocialLink>
                                 )}
                             </Social>

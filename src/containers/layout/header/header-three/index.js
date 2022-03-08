@@ -15,7 +15,7 @@ import SearchForm from '../../../../components/forms/search-form/layout-three'
 import CloseButton from '../../../../components/ui/close-button'
 import BurgerButton from '../../../../components/ui/burger-button'
 import Social, { SocialLink } from '../../../../components/ui/social'
-import { TiSocialFacebook, TiSocialTwitter, TiSocialInstagram, TiSocialLinkedin } from "react-icons/ti";
+import { TiSocialFacebook, TiSocialTwitter, TiSocialInstagram, TiSocialLinkedin, TiSocialYoutube } from "react-icons/ti";
 import {
     HeaderWrap,
     HeaderTop,
@@ -53,6 +53,7 @@ const Header = ({ props, ...styles }) => {
                         twitter
                         instagram
                         linkedin
+                        youtube
                     }
                 }
             }
@@ -96,7 +97,7 @@ const Header = ({ props, ...styles }) => {
 
     const { noticeStyle, phoneElStyle, searchElStyle, logoStyle, burgerBtnElStyle, transparent } = styles;
     const menuArr = headerData.allMenuJson.edges;
-    const { facebook, twitter, instagram, linkedin } = headerData.site.siteMetadata.social;
+    const { facebook, twitter, instagram, linkedin, youtube } = headerData.site.siteMetadata.social;
     return (
         <Fragment>
             <HeaderWrap ref={headerRef} isSticky={sticky} transparent={transparent}>
@@ -135,6 +136,12 @@ const Header = ({ props, ...styles }) => {
                                                 <SocialLink
                                                     path={linkedin}>
                                                     <TiSocialLinkedin />
+                                                </SocialLink>
+                                            )}
+                                            {youtube && (
+                                                <SocialLink
+                                                    path={youtube}>
+                                                    <TiSocialYoutube />
                                                 </SocialLink>
                                             )}
                                         </Social>

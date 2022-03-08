@@ -16,7 +16,8 @@ module.exports = {
       facebook: "https://www.facebook.com",
       twitter: "https://twitter.com/crest_uofa",
       instagram: "https://www.instagram.com",
-      linkedin: "https://www.linkedin.com/company/crest-centre/"
+      linkedin: "https://www.linkedin.com/company/crest-centre/",
+      youtube:"https://www.youtube.com/channel/UCV3Q3Sa6kSvpUcRXdje_EqQ"
     },
     contact: {
       phone: '+61 8 8313 4478',
