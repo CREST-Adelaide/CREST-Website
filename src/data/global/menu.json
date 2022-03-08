@@ -85,6 +85,10 @@
             {
                 "text": "ICDM Workshop",
                 "link": "/icdm"
+            },
+            {
+                "text": "Guest Talk - Zunera",
+                "link": "/cybersecurity-for-ai"
             }
         ]
     },
