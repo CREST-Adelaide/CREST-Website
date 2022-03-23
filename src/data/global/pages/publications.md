@@ -19,9 +19,44 @@ is_featured: true
 
 
 ### 2022
-1. F Tian, P Liang, MA Babar, "Relationships between software architecture and source code in practice: An exploratory survey and interview", Information and Software Technology 141.
+
+1. THM Le, MA Babar, "On the Use of Fine-grained Vulnerable Code Statements for Software Vulnerability Assessment Models".
+
+- C Islam, MA Babar, R Croft, H Janicke, "SmartValidator: A Framework for Automatic Identification and Classification of Cyber Threat Data".
+
+- D Hin, A Kan, H Chen, MA Babar, "LineVD: Statement-level Vulnerability Detection using Graph Neural Networks".
+
+- R Croft, MA Babar, H Chen, "Noisy Label Learning for Security Defects".
+
+- N Dissanayake, M Zahedi, A Jayatilaka, MA Babar, "Why, How and Where of Delays in Software Security Patch Management: An Empirical Investigation in the Healthcare Sector".
+
+- F Ullah, MA Babar, "On the scalability of Big Data Cyber Security Analytics systems", Journal of Network and Computer Applications 198.
+
+- LH Iwaya, MA Babar, A Rashid, C Wijayarathna, "On the Privacy of Mental Health Apps: An Empirical Investigation and its Implications for Apps Development".
+
+- ZT Sworna, C Islam, MA Babar, "APIRO: A Framework for Automated Security Tools API Recommendation".
+
+- ZT Sworna, Z Mousavi, MA Babar, "NLP Methods in Host-based Intrusion Detection Systems: A Systematic Review and Future Directions".
+
+- H Chen, MA Babar, "Security for Machine Learning-based Software Systems: a survey of threats, practices and challenges".
+
+- F Ullah, I Mohammed, MA Babar, "A Framework for Energy-aware Evaluation of Distributed Data Processing Platforms in Edge-Cloud Environment".
+
+- F Ullah, S Dhingra, X Xia, MA Babar, "Evaluation of Distributed Data Processing Frameworks in Hybrid Clouds".
+
+- L Horn Iwaya, MA Babar, A Rashid, C Wijayarathna, "On the Privacy of Mental Health Apps: An Empirical Investigation and its Implications for Apps Development".
+
+- RN Rajapakse, M Zahedi, MA Babar, H Shen, "Challenges and solutions when adopting DevSecOps: A systematic review", Information and Software Technology 141.
+
+- F Tian, P Liang, MA Babar, "Relationships between software architecture and source code in practice: An exploratory survey and interview", Information and Software Technology 141.
 
 - R Croft, Y Xie, M Zahedi, MA Babar, C Treude, "An empirical study of developers’ discussions about security challenges of different programming languages", Empirical Software Engineering 27 (1).
+
+- MU Haque, MM Kholoosi, MA Babar, "KGSecConfig: A Knowledge Graph Based Approach for Secured Container Orchestrator Configuration".
+
+- L Jiang, A Jayatilaka, M Nasim, M Grobler, M Zahedi, MA Babar, "Systematic Literature Review on Cyber Situational Awareness Visualizations".
+
+- A Jayatilaka, N Beu, I Baetu, M Zahedi, MA Babar, L Hartley, W Lewinsmith, "Evaluation of Security Training and Awareness Programs: Review of Current Practices and Guideline".
 
 
 ### 2021

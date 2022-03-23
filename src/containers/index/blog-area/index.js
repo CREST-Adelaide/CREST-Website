@@ -54,7 +54,7 @@ const BlogArea = props => {
     const featuredBlogs = blogData.featuredBlog.edges;
     const bgImage = blogData.file.childImageSharp.fluid
     return (
-        <BlogWrapper  fluid={bgImage}>
+        <BlogWrapper fluid={bgImage}>
             <Container>
                 <Row>
                     <Col lg={4}>
@@ -71,14 +71,15 @@ const BlogArea = props => {
                     </Col>
                     <Col lg={8}>
                         <Row>
-                        <Col md={6} sm={12}>
-                          <TwitterTweetEmbed 
-                            tweetId={'1501003233187495937'}/>
-                        </Col>
-                        <Col md={6} sm={12}>
-                          <TwitterTweetEmbed 
-                            tweetId={'1500992854323503106'}/>
-                        </Col>
+                            <Col md={6} sm={12}>
+                                <TwitterTweetEmbed
+                                    tweetId={'1505134839837700097'} />
+                            </Col>
+                            <Col md={6} sm={12}>
+                                <TwitterTweetEmbed
+                                    tweetId={'1501737268192886789'} />
+                            </Col>
+
                             {/* {featuredBlogs && featuredBlogs.map(featuredBlog => (
                                 <Col md={6} key={featuredBlog.node.fields.slug}>
                                     <FeaturedBlogWrap>
