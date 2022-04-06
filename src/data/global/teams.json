@@ -262,8 +262,8 @@
     {
         "id": "faheem-ullah",
         "name": "Faheem Ullah",
-        "designation": "Post Doc",
-        "position": "researchfellows",
+        "designation": "Lecturer",
+        "position": "faculty",
         "introduction": "Faheem is a member of Centre for Research on Engineering Software Technologies (CREST) where he works on projects lying at the intersection of big data anlaytics, cyber security, and cloud computing. Faheem obtained PhD degree from the University of Adelaide, where he worked under the supervison of Prof. Ali Babar. During his PhD, Faheem worked on the quality-centric design and evaluation of big data cyber security analytics systems. Currently, Faheem's research primarily focuses on implementing and evaluating big data analytics frameworks and big data storage solutions, developing software threat models, and automaticalling tuning big data analytics systems.",
         "images": {
             "large": "../images/team/Faheem.jpg",
@@ -331,32 +331,6 @@
             "linkedin": "https://www.linkedin.com/in/chadni-islam-7193b5174/",
             "github": "",
             "googlescholar": "https://scholar.google.com.au/citations?hl=en&user=JYcmT_IAAAAJ&view_op=list_works&sortby=pubdate"
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
-        "id": "monica-bian",
-        "name": "Monica Bian",
-        "designation": "Post Doc",
-        "position": "researchfellows",
-        "introduction": "Dr Ranran Bian received her PhD from The University of Auckland (New Zealand) and is currently working as a Postdoc researcher at The University of Adelaide. Her PhD focused on heterogeneous network mining and analysis, where novel algorithms for community discovery, ranking, dynamic embedding and change modeling in different heterogeneous networks were developed. The key areas of her research interests include: network embedding for dynamic heterogeneous networks, social network analysis, applying network analysis techniques in different cybersecurity domains.",
-        "images": {
-            "large": "../images/team/monica.jpg",
-            "medium": "../images/team/monica.jpg"
-        },
-        "image": "../images/team/monica.jpg",
-        "competencies": "",
-        "socials": {
-            "facebook": "",
-            "twitter": "https://twitter.com/Monica_RR_Bian",
-            "instagram": "",
-            "personalwebsite": "https://researchers.adelaide.edu.au/profile/monica.bian#my-research",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
         },
         "projecturl": "",
         "researchtopic": "",
@@ -1394,6 +1368,32 @@
             "twitter": "",
             "instagram": "",
             "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "monica-bian",
+        "name": "Monica Bian",
+        "designation": "Post Doc",
+        "position": "alumni",
+        "introduction": "Dr Ranran Bian received her PhD from The University of Auckland (New Zealand) and is currently working as a Postdoc researcher at The University of Adelaide. Her PhD focused on heterogeneous network mining and analysis, where novel algorithms for community discovery, ranking, dynamic embedding and change modeling in different heterogeneous networks were developed. The key areas of her research interests include: network embedding for dynamic heterogeneous networks, social network analysis, applying network analysis techniques in different cybersecurity domains.",
+        "images": {
+            "large": "../images/team/monica.jpg",
+            "medium": "../images/team/monica.jpg"
+        },
+        "image": "../images/team/monica.jpg",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "https://twitter.com/Monica_RR_Bian",
+            "instagram": "",
+            "personalwebsite": "https://researchers.adelaide.edu.au/profile/monica.bian#my-research",
             "linkedin": "",
             "github": "",
             "googlescholar": ""
