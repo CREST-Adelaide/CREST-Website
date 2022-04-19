@@ -27,7 +27,7 @@ export const HeroButton = styled.div `
 `;
 
 export const AppointmentWrap = styled.div `
-    max-width: 400px;
+    max-width: 560px;
     margin-left: auto;
     background: #fff;
     box-shadow: 0 2px 30px rgba(0,0,0,0.1);

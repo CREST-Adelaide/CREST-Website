@@ -77,28 +77,7 @@ const CyberAI = ({ pageContext, location }) => (
                             <Heading as="h3" mb="30px">Abstract</Heading>
                         </Col>
                     </Row> */}
-                    <Row>
-                        {/* <Col lg={6}>
-                            <Heading style={{
-                                as: 'h6',
-                                fontSize: '16px',
-                                lineHeight: 1.43,
-                                fontweight: 400,
-                                color: '#002fa6',
-                            }}>{"Artificial intelligence and Machine Learning has created a huge impact in current digital world and has been shown to be able to create machines that exhibit intelligence comparable to or in some cases even better than human intelligence. AI has been used in medical applications, security applications, cloud computing, smart cities, web, and in many other domains. Pakistan is moving towards digitalization and the emphasis is on using technology to enhance productivity, economic stability, security and reachability. In this shift towards digitalization, cybersecurity cannot be neglected. AI is helping to achieve cybersecurity by detecting anomalies, adapting security parameters based on ongoing cyber-attacks, and to combat cyber-adversaries. However, AI systems can be controlled, compromised, biased, and misled through flawed learning models and poisonous input data. Therefore, AI systems need robust security. One should know how to use AI models securely? How to safeguard AI models from malicious inputs? How to not make adversaries take advantage of your smart moves? The integration of cybersecurity and AI can boost progress through secure, smooth and smart shift towards digitalization."}</Heading>
 
-                            <ClientBox>
-                                <Heading style={{
-                                    as: 'h6',
-                                    fontweight: '500',
-                                    mb: '.25rem'
-                                }}>{"Dr. Zunera Jalil"}</Heading>
-                            </ClientBox>
-                        </Col> */}
-                        <Col lg={12}>
-                            <img src="https://pbs.twimg.com/media/FPeCfVmVkAsNm2m?format=jpg&name=large"></img>
-                        </Col>
-                    </Row>
                     <Row>
                         <Col lg={6}>
                             <ClientBox>
@@ -125,7 +104,18 @@ const CyberAI = ({ pageContext, location }) => (
                         </Col>
                     </Row>
                     <Row>
-                        <Col lg={8}>
+                        <Col lg={6} className="mx-auto">
+                            <AppointmentWrap style={{ marginTop: 40 }}>
+                                <AppointmentTitleWrap>
+                                    <Heading as="h5" mb="10px">Register to join</Heading>
+                                    <Text>Please sign up below for event information and updates, such as access to the Zoom link.</Text>
+                                </AppointmentTitleWrap>
+                                <AppointmentFormWrap>
+                                    <AppointmentForm />
+                                </AppointmentFormWrap>
+                            </AppointmentWrap>
+                        </Col>
+                        <Col lg={6}>
                             <p style={{
                                 fontSize: '24px',
                                 lineHeight: 1.43,
@@ -133,16 +123,28 @@ const CyberAI = ({ pageContext, location }) => (
                             }}>
                                 Dr Suranga Seneviratne is a Lecturer in Security at the School of Computer Science, The  University of  Sydney.  He received his  PhD from the University of  New  South  Wales,  Australia in 2015 and received his bachelor's degree from the University of Moratuwa, Sri Lanka in 2005. His current research interests include privacy and security in mobile systems,  AI  applications in security, security of machine learning,  and behavioural biometrics. He has published over 40 peer-reviewed research papers in top tier venues such as CVPR, WWW, MobiSys,  SIGCOMM IMC, and IMWUT (Ubicomp).  His research has been often translated into solutions beneficial to the industry and the general public and covered by top international and local media outlets such as Forbes, ZDNet, SMH, and The Sun. He received Dean’s Award for Industrial Collaborations in 2019 in recognition of his work with the industry/defence.</p>
                         </Col>
-                        <Col lg={4} className="mx-auto">
-                            <AppointmentWrap>
-                                <AppointmentTitleWrap>
-                                    <Heading as="h5" mb="10px">Book Gust Talk</Heading>
-                                    <Text>Please sign up below for event information and updates, such as access to the Zoom link.</Text>
-                                </AppointmentTitleWrap>
-                                <AppointmentFormWrap>
-                                    <AppointmentForm />
-                                </AppointmentFormWrap>
-                            </AppointmentWrap>
+
+                    </Row>
+                    <Row>
+                        {/* <Col lg={6}>
+                            <Heading style={{
+                                as: 'h6',
+                                fontSize: '16px',
+                                lineHeight: 1.43,
+                                fontweight: 400,
+                                color: '#002fa6',
+                            }}>{"Artificial intelligence and Machine Learning has created a huge impact in current digital world and has been shown to be able to create machines that exhibit intelligence comparable to or in some cases even better than human intelligence. AI has been used in medical applications, security applications, cloud computing, smart cities, web, and in many other domains. Pakistan is moving towards digitalization and the emphasis is on using technology to enhance productivity, economic stability, security and reachability. In this shift towards digitalization, cybersecurity cannot be neglected. AI is helping to achieve cybersecurity by detecting anomalies, adapting security parameters based on ongoing cyber-attacks, and to combat cyber-adversaries. However, AI systems can be controlled, compromised, biased, and misled through flawed learning models and poisonous input data. Therefore, AI systems need robust security. One should know how to use AI models securely? How to safeguard AI models from malicious inputs? How to not make adversaries take advantage of your smart moves? The integration of cybersecurity and AI can boost progress through secure, smooth and smart shift towards digitalization."}</Heading>
+
+                            <ClientBox>
+                                <Heading style={{
+                                    as: 'h6',
+                                    fontweight: '500',
+                                    mb: '.25rem'
+                                }}>{"Dr. Zunera Jalil"}</Heading>
+                            </ClientBox>
+                        </Col> */}
+                        <Col lg={12}>
+                            <img src="https://pbs.twimg.com/media/FPeCfVmVkAsNm2m?format=jpg&name=large"></img>
                         </Col>
                     </Row>
                 </Container>
