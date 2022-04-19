@@ -32,7 +32,7 @@ const AppointmentForm = () => {
             data: data
         })
             .then(r => {
-                handleServerResponse(true, "Thanks! for contact with us", form);
+                handleServerResponse(true, "Thanks for registering the guest talk!", form);
             })
             .catch(r => {
                 handleServerResponse(false, r.response.data.error, form);
@@ -43,14 +43,25 @@ const AppointmentForm = () => {
         <Form onSubmit={handleSubmit(onSubmit)}>
             <FormGroup mb="20px">
                 <Input
-                    name="appointment_name"
-                    id="appointment_name"
+                    name="first_name"
+                    id="first_name"
                     type="text"
-                    placeholder="Name *"
+                    placeholder="First Name *"
                     hover="2"
-                    ref={register({ required: 'Name is required' })}
+                    ref={register({ required: 'First name is required' })}
                 />
-                <Error>{errors.appointment_name && errors.appointment_name.message}</Error>
+                <Error>{errors.first_name && errors.first_name.message}</Error>
+            </FormGroup>
+            <FormGroup mb="20px">
+                <Input
+                    name="last_name"
+                    id="last_name"
+                    type="text"
+                    placeholder="Last Name *"
+                    hover="2"
+                    ref={register({ required: 'Last name is required' })}
+                />
+                <Error>{errors.last_name && errors.last_name.message}</Error>
             </FormGroup>
             <FormGroup mb="20px">
                 <Input
@@ -69,7 +80,7 @@ const AppointmentForm = () => {
                 />
                 <Error>{errors.appointment_email && errors.appointment_email.message}</Error>
             </FormGroup>
-            <FormGroup mb="20px">
+            {/* <FormGroup mb="20px">
                 <Select
                     name="appointment_inquiry"
                     id="appointment_inquiry"
@@ -83,7 +94,7 @@ const AppointmentForm = () => {
                     <option value="Software Licencing">Software Licencing</option>
                 </Select>
                 <Error>{errors.appointment_inquiry && errors.appointment_inquiry.message}</Error>
-            </FormGroup>
+            </FormGroup> */}
             <FormGroup textalign="center">
                 <Button
                     type="submit"

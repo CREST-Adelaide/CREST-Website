@@ -54,44 +54,36 @@ const Hero = ({ subtitleStyle, titleStyle }) => {
 
     return (
         <Fragment>
-            <HeroWrapper
-                tag="section"
-                fluid={imageData}
-            >
-                <Container>
-                    <Row alignitems="center">
-                        <Col md={6}>
-                            <HeroTextWrap>
-                                <Heading {...subtitleStyle}>{data.subtitle}</Heading>
-                                <Heading {...titleStyle}>{data.title}</Heading>
-                                <HeroButton>
+
+            <Container>
+                <Row alignitems="center">
+                    <Col md={6}>
+                        <HeroTextWrap>
+                            {/* <Heading {...subtitleStyle}>Register of interest</Heading> */}
+                            <Heading {...titleStyle}>CREST Guest Talk</Heading>
+                            {/* <HeroButton>
                                     <VideoButton
                                         onClick={modalVideoOpen}
                                         text="How we work"
                                     />
-                                </HeroButton>
-                            </HeroTextWrap>
-                        </Col>
-                        <Col lg={5} md={6} className="mx-auto">
-                            <AppointmentWrap>
-                                <AppointmentTitleWrap>
-                                    <Heading as="h5" mb="10px">Book appointment</Heading>
-                                    <Text>It's out pleasure to have a chance to cooperate.</Text>
-                                </AppointmentTitleWrap>
-                                <AppointmentFormWrap>
-                                    <AppointmentForm />
-                                </AppointmentFormWrap>
-                            </AppointmentWrap>
-                        </Col>
-                    </Row>
-                </Container>
-            </HeroWrapper>
-            <ModalVideo
-                channel='youtube'
-                videoId='L61p2uyiMSo'
-                isOpen={videoOpen}
-                onClose={modalVideoClose}
-            />
+                                </HeroButton> */}
+                        </HeroTextWrap>
+                    </Col>
+                    <Col lg={5} md={6} className="mx-auto">
+                        <AppointmentWrap>
+                            <AppointmentTitleWrap>
+                                <Heading as="h5" mb="10px">Book Gust Talk</Heading>
+                                <Text>Please sign up below for event information and updates, such as access to the Zoom link.</Text>
+                            </AppointmentTitleWrap>
+                            <AppointmentFormWrap>
+                                <AppointmentForm />
+                            </AppointmentFormWrap>
+                        </AppointmentWrap>
+                    </Col>
+                </Row>
+            </Container>
+
+
         </Fragment>
     )
 }
