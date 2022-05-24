@@ -129,6 +129,7 @@ const CyberAI = ({ pageContext, location }) => (
                             }}>
                                 Security incident response in enterprise environments
                             </p>
+                            <p style={{ fontSize: '20px' }}>Friday, 3 June 2022. 4:00PM (ACST) </p>
                             <p style={{
                                 fontSize: '24px',
                                 lineHeight: 1.43,
