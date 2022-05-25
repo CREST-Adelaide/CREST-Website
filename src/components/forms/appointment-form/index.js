@@ -5,7 +5,7 @@ import useFormUrl from '../useFormUrl'
 import Form, { FormGroup, Input, Select, Error } from '../../ui/form'
 import Button from '../../ui/button'
 
-const AppointmentForm = () => {
+const AppointmentForm = (props) => {
     const formUrl = useFormUrl();
     const { register, handleSubmit, errors, reset } = useForm({
         mode: "onBlur"
@@ -32,7 +32,7 @@ const AppointmentForm = () => {
             data: data
         })
             .then(r => {
-                handleServerResponse(true, "Thanks for registering the guest talk!", form);
+                handleServerResponse(true, "Thanks for registering the guest talk! " + props.info, form);
             })
             .catch(r => {
                 handleServerResponse(false, r.response.data.error, form);

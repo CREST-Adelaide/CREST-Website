@@ -115,7 +115,9 @@ const CyberAI = ({ pageContext, location }) => (
                                     <Text>Please sign up below for event information and updates, such as access to the Zoom link.</Text>
                                 </AppointmentTitleWrap>
                                 <AppointmentFormWrap>
-                                    <AppointmentForm />
+                                    <AppointmentForm
+                                        info="We will keep you updated and send you the Zoom link on Friday, 3 June 2022."
+                                    />
                                 </AppointmentFormWrap>
                                 <br></br>
                                 <p>Your information will be submitted to and managed by <a href="https://getform.io/" target="_blank">getform</a>.</p>
