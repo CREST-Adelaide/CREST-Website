@@ -67,7 +67,7 @@ const AreaAreaResearch = ({ blogBoxStyle }) => {
     const { totalCount } = AreaQuery.allMarkdownRemark;
     const postsPerPage = 6;
     const numberOfPages = Math.ceil(totalCount / postsPerPage);
-    console.log(blogs)
+    // console.log(blogs)
     return (
 
         blogs.map(blog => (

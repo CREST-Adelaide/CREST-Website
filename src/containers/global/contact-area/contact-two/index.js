@@ -67,8 +67,9 @@ const ContactArea = ({ content, sectionStyle, imgBoxStyle, rightBoxStyle, boxIco
                                 {<Text color='white' as="h6">{main_content}</Text>}
                                 {/* <Ratings {...ratingStyle} rating={+rating} /> */}
                                 <br />
-                                
-                                <Button size="large" skin='primary' shape='bullet' to={`/${slug}`} hover="2">View More</Button>
+                                {title.includes("Socio") && <Button size="large" skin='primary' shape='bullet' to={`http://socio-technical.crest-centre.net/`} hover="2">View More</Button>}
+                                {!title.includes("Socio") && <Button size="large" skin='primary' shape='bullet' to={`/${slug}`} hover="2">View More</Button>}
+                                {/* <Button size="large" skin='primary' shape='bullet' to={`/${slug}`} hover="2">View More</Button> */}
                                 <br />
                                 <br />
                                 <br />
