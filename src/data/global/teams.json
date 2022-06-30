@@ -286,32 +286,6 @@
         "is_featured": true
     },
     {
-        "id": "huaming-chen",
-        "name": "Huaming Chen",
-        "designation": "Post Doc",
-        "position": "researchfellows",
-        "introduction": "Dr. Huaming Chen is a researcher of Centre for Research on Engineering Software Technologies (CREST). Huaming received his PhD from School of Computing and Information Technology in University of Wollongong. He completed his master in Computer System Architecture and bachelor (Hons) degrees in Electronics at Lanzhou University, in 2015 and 2012 respectively. During his research training in master and PhD, he has a major focus on the computational intelligence, particularly for applied machine learning and deep learning. He has collaborated with researchers with different expertises to develop leveraging algorithms and models to make contributions to the distinct challenges in different areas, including biologist, industrial production and transportation. He has also actively served as the reviewers for renowned grants and top international journals/conferences. He is now working on the topic lying at the intersection of machine learning, software engineering and cyber security. His research interests including: applied machine learning, software engineering, computational intelligence and cyber security.",
-        "images": {
-            "large": "../images/team/HuamingChen.jpg",
-            "medium": "../images/team/HuamingChen.jpg"
-        },
-        "image": "../images/team/HuamingChen.jpg",
-        "competencies": "",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "https://researchers.adelaide.edu.au/profile/huaming.chen",
-            "linkedin": "https://www.linkedin.com/in/huaming-chen/",
-            "github": "",
-            "googlescholar": "https://scholar.google.com/citations?user=3-qRVLUAAAAJ&hl=en"
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
         "id": "chadni-islam",
         "name": "Chadni Islam",
         "designation": "Post Doc",
@@ -387,32 +361,6 @@
         "projecturl": "",
         "researchtopic": "",
         "researchlink": "",
-        "is_featured": true
-    },
-    {
-        "id": "bakheet-aljedaani",
-        "name": "Bakheet Aljedaani",
-        "designation": "PhD",
-        "position": "phdstudents",
-        "introduction": "Bakheet Aljedaani is a PhD student in the Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. His current research focus is on the security of mobile health applications, particularly assessing the security perception for the end-users, as well as investigating the process of developing secure apps. His research is mainly conducted empirically (e.g., interviews and surveys) and analysing quantitive and qualitative data. The key areas of his research are human aspects of developing secure mobile health applications, security and privacy of mobile health applications, and end-users’ security requirements for mobile health applications. Bakheet worked as a lecturer at Umm Alqura University, Saudi Arabia before joining CREST. He obtained a bachelor degree in Computer Science from King Abdulaziz University, Saudi Arabia and a Master’s degree in Information Security from Lewis University, USA in 2008 and 2011 respectively.",
-        "images": {
-            "large": "../images/team/Bakheet.jpg",
-            "medium": "../images/team/Bakheet.jpg"
-        },
-        "image": "../images/team/Bakheet.jpg",
-        "competencies": "Human factor. Mobile health applications. Security and privacy. Security requirements. Empirical research. Quantitative and qualitative analysis.",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "Secure Mobile Health Application Engineering",
-        "researchlink": "/secure-mobile-health-application-engineering",
         "is_featured": true
     },
     {
@@ -780,32 +728,6 @@
         "is_featured": true
     },
     {
-        "id": "guanhua-wang",
-        "name": "Guanhua Wang",
-        "designation": "PhD",
-        "position": "phdstudents",
-        "introduction": "Guanhua Wang is a PhD student under the supervision of Dr. Mingyu Guo and Prof. Ali Babar. His research is on applying deep learning technique to market design, and its application to cybersecurity domains (e.g., bug bounty systems).",
-        "images": {
-            "large": "../images/team/guanhua.jpeg",
-            "medium": "../images/team/guanhua.jpeg"
-        },
-        "image": "../images/team/guanhua.jpeg",
-        "competencies": "Deep Learning, Mechanism Design",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
         "id": "liuyue-jiang",
         "name": "Liuyue Jiang",
         "designation": "PhD",
@@ -829,32 +751,6 @@
         "projecturl": "",
         "researchtopic": "Cyber Common Operating Pictures",
         "researchlink": "/cyber-common-operating-pictures-ccop",
-        "is_featured": true
-    },
-    {
-        "id": "isuru-dharmadasa",
-        "name": "Isuru Dharmadasa",
-        "designation": "PhD",
-        "position": "phdstudents",
-        "introduction": "Isuru Dharmadasa is a PhD student at the School of Computer Science, The University of Adelaide. He graduated from the University of Colombo School of Computing with a first-class honours degree. In addition, he secured the gold medal for the best academic performance in that respective year.  Isuru is currently working under the supervision of Professor Ali Babar and Dr Chadni Islam, with a focus on Software Engineering and Artificial Intelligence research domains.  During his undergraduate life and later as a junior academic member of the University of Colombo, he has contributed to multiple interdisciplinary research projects.",
-        "images": {
-            "large": "../images/team/Isuru.jpg",
-            "medium": "../images/team/Isuru.jpg"
-        },
-        "image": "../images/team/Isuru.jpg",
-        "competencies": "Machine Learning, Human Behavior Analysis, Privacy Implication Modelling, Human Identification and Localization",
-        "socials": {
-            "facebook": "",
-            "twitter": "https://twitter.com/isurudharmadasa",
-            "instagram": "",
-            "personalwebsite": "https://sites.google.com/view/isuru-dharmadasa/",
-            "linkedin": "https://www.linkedin.com/in/isurudharmadasa/",
-            "github": "https://github.com/isuru-crest",
-            "googlescholar": "https://scholar.google.com/citations?user=onIxBvkAAAAJ&hl=en"
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
         "is_featured": true
     },
     {
@@ -1397,6 +1293,84 @@
             "linkedin": "",
             "github": "",
             "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "guanhua-wang",
+        "name": "Guanhua Wang",
+        "designation": "PhD",
+        "position": "alumni",
+        "introduction": "Guanhua Wang is a PhD student under the supervision of Dr. Mingyu Guo and Prof. Ali Babar. His research is on applying deep learning technique to market design, and its application to cybersecurity domains (e.g., bug bounty systems).",
+        "images": {
+            "large": "../images/team/guanhua.jpeg",
+            "medium": "../images/team/guanhua.jpeg"
+        },
+        "image": "../images/team/guanhua.jpeg",
+        "competencies": "Deep Learning, Mechanism Design",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "bakheet-aljedaani",
+        "name": "Bakheet Aljedaani",
+        "designation": "PhD",
+        "position": "alumni",
+        "introduction": "Bakheet Aljedaani is a PhD student in the Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. His current research focus is on the security of mobile health applications, particularly assessing the security perception for the end-users, as well as investigating the process of developing secure apps. His research is mainly conducted empirically (e.g., interviews and surveys) and analysing quantitive and qualitative data. The key areas of his research are human aspects of developing secure mobile health applications, security and privacy of mobile health applications, and end-users’ security requirements for mobile health applications. Bakheet worked as a lecturer at Umm Alqura University, Saudi Arabia before joining CREST. He obtained a bachelor degree in Computer Science from King Abdulaziz University, Saudi Arabia and a Master’s degree in Information Security from Lewis University, USA in 2008 and 2011 respectively.",
+        "images": {
+            "large": "../images/team/Bakheet.jpg",
+            "medium": "../images/team/Bakheet.jpg"
+        },
+        "image": "../images/team/Bakheet.jpg",
+        "competencies": "Human factor. Mobile health applications. Security and privacy. Security requirements. Empirical research. Quantitative and qualitative analysis.",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "Secure Mobile Health Application Engineering",
+        "researchlink": "/secure-mobile-health-application-engineering",
+        "is_featured": true
+    },
+    {
+        "id": "huaming-chen",
+        "name": "Huaming Chen",
+        "designation": "Post Doc",
+        "position": "alumni",
+        "introduction": "Dr. Huaming Chen is a researcher of Centre for Research on Engineering Software Technologies (CREST). Huaming received his PhD from School of Computing and Information Technology in University of Wollongong. He completed his master in Computer System Architecture and bachelor (Hons) degrees in Electronics at Lanzhou University, in 2015 and 2012 respectively. During his research training in master and PhD, he has a major focus on the computational intelligence, particularly for applied machine learning and deep learning. He has collaborated with researchers with different expertises to develop leveraging algorithms and models to make contributions to the distinct challenges in different areas, including biologist, industrial production and transportation. He has also actively served as the reviewers for renowned grants and top international journals/conferences. He is now working on the topic lying at the intersection of machine learning, software engineering and cyber security. His research interests including: applied machine learning, software engineering, computational intelligence and cyber security.",
+        "images": {
+            "large": "../images/team/HuamingChen.jpg",
+            "medium": "../images/team/HuamingChen.jpg"
+        },
+        "image": "../images/team/HuamingChen.jpg",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "https://researchers.adelaide.edu.au/profile/huaming.chen",
+            "linkedin": "https://www.linkedin.com/in/huaming-chen/",
+            "github": "",
+            "googlescholar": "https://scholar.google.com/citations?user=3-qRVLUAAAAJ&hl=en"
         },
         "projecturl": "",
         "researchtopic": "",
