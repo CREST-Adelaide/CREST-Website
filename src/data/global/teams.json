@@ -55,7 +55,7 @@
         "id": "mansooreh-zahedi",
         "name": "Mansooreh Zahedi",
         "designation": "Lecturer",
-        "position": "faculty",
+        "position": "alumni",
         "introduction": "My research is concentrated in the area of Software Engineering (SE). It is stimulated by the need of continuously evolving software development processes and practices to help organizations produce high-quality software intensive systems and achieve their business goals. Believing in close cooperation and alignment between industry and academia, my key research capabilities lies in the area of Empirical Software Engineering. My primary goal is to apply qualitative and quantitative research methods to investigate the role of people and processes in different software development paradigms. The key areas of my research interests include: Global Software Development (GSD), Knowledge Management, Continuous Software Engineering, Human factors in Software Engineering, Science to Technology Innovation and  Socio-Technical aspects of Cyber Security.",
         "images": {
             "large": "../images/team/Mansooreh.jpg",
@@ -81,7 +81,7 @@
         "id": "minhui-xue",
         "name": "Minhui Xue",
         "designation": "Lecturer",
-        "position": "faculty",
+        "position": "alumni",
         "introduction": "Minhui Xue is (continuing) Lecturer (a.k.a. Assistant Professor) of School of Computer Science at the University of Adelaide. He is also Honorary Lecturer with Macquarie University. Previously, he was Research Fellow with Macquarie University and a visiting research scientist at CSIRO-Data61 at Sydney, Australia. His current research interests are machine learning security and privacy, system and software security, and Internet measurement. He is the recipient of the ACM SIGSOFT distinguished paper award and IEEE best paper award, and his work has been featured in the New York Times. He co-chaired the 1st IEEE AI4MOBILE workshop and the 1st IEEE MASS workshop on Smart City Security and Privacy. He currently serves on the PC committee of USENIX Security and Privacy Enhancing Technologies Symposium (PETS).",
         "images": {
             "large": "../images/team/Jason.jpeg",
