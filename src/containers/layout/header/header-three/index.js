@@ -107,7 +107,7 @@ const Header = ({ props, ...styles }) => {
                             <Col lg={12}>
                                 <HeaderMain top>
                                     <HeaderCol left>
-                                        <a href="https://www.crest-centre.net/security-incident-response"><Text color={transparent ? '#fff' : 'textColor'} {...noticeStyle}><strong>Guest Talk: Security incident response in enterprise environments</strong></Text></a>
+                                        <a href="https://www.crest-centre.net/cloud-service-selection"><Text color={transparent ? '#fff' : 'textColor'} {...noticeStyle}><strong>Our Talk: Long-term Cloud Service Selection using Short-term Trials. By Dr. Fattah</strong></Text></a>
                                         {/* <Link to="/summer-scholarship"><Text color={transparent ? '#fff' : 'textColor'} {...noticeStyle}><strong>Now Hiring: CREST Summer Internships - Nov 2020 – Feb 2021, 10-12 weeks, full time.</strong></Text></Link> */}
                                     </HeaderCol>
                                     <HeaderCol right>
