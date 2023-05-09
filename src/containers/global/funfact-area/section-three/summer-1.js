@@ -37,6 +37,13 @@ const Section = ({ markHeading, headingStyle2 }) => {
         <SectionWrap>
             <Container>
                 <Row>
+                    <Col lg={12}>
+                        <h5>Our interns and projects from the CREST summer scholarship program in 2021-2022</h5>
+                    </Col>
+                </Row>
+                <br />
+                <br />
+                <Row>
                     <Col lg={{ span: 12 }}>
 
                         <Row>
@@ -48,7 +55,7 @@ const Section = ({ markHeading, headingStyle2 }) => {
                                     <p style={{ fontSize: 20 }}>{"Supervised by: " + parse(supervisor)}</p>
                                 </HeaderWrap>
                                 <br />
-                                <Image fluid={studentphoto.childImageSharp.fluid} alt={student} align="left" style={{height: 180, width: 180}} />
+                                <Image fluid={studentphoto.childImageSharp.fluid} alt={student} align="left" style={{ height: 180, width: 180 }} />
                                 <p style={{ fontSize: 24, paddingTop: 30, fontWeight: 500 }}>{parse(student)}</p>
                                 <p style={{ fontSize: 16 }}>{parse(studentprofile)}</p>
                             </Col>

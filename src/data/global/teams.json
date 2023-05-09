@@ -338,32 +338,6 @@
         "is_featured": true
     },
     {
-        "id": "xiaoyu-xia",
-        "name": "Xiaoyu Xia",
-        "designation": "Post Doc",
-        "position": "researchfellows",
-        "introduction": "Xiaoyu Xia is a researcher at of Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. He received his Master degree from The University of Melbourne, Australia and his PhD degree from Deakin University, Australia. During his PhD, he mainly focused on data caching and data distribution in edge computing. His current research interests include edge computing, parallel and distributed computing, cloud computing and service computing. ",
-        "images": {
-            "large": "../images/team/xiaoyu.jpg",
-            "medium": "../images/team/xiaoyu.jpg"
-        },
-        "image": "../images/team/xiaoyu.jpg",
-        "competencies": "",
-        "socials": {
-            "facebook": "",
-            "twitter": "https://twitter.com/xiaoyu_shaw_xia",
-            "instagram": "",
-            "personalwebsite": "https://sites.google.com/view/xiaoyuxia",
-            "linkedin": "https://www.linkedin.com/in/xiaoyuxia/",
-            "github": "",
-            "googlescholar": "https://scholar.google.com/citations?user=v-6hODoAAAAJ&hl=en"
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
         "id": "triet-huynh",
         "name": "Triet Huynh Minh Le",
         "designation": "PhD",
@@ -1371,6 +1345,32 @@
             "linkedin": "https://www.linkedin.com/in/huaming-chen/",
             "github": "",
             "googlescholar": "https://scholar.google.com/citations?user=3-qRVLUAAAAJ&hl=en"
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "xiaoyu-xia",
+        "name": "Xiaoyu Xia",
+        "designation": "Post Doc",
+        "position": "alumni",
+        "introduction": "Xiaoyu Xia is a researcher at of Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. He received his Master degree from The University of Melbourne, Australia and his PhD degree from Deakin University, Australia. During his PhD, he mainly focused on data caching and data distribution in edge computing. His current research interests include edge computing, parallel and distributed computing, cloud computing and service computing. ",
+        "images": {
+            "large": "../images/team/xiaoyu.jpg",
+            "medium": "../images/team/xiaoyu.jpg"
+        },
+        "image": "../images/team/xiaoyu.jpg",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "https://twitter.com/xiaoyu_shaw_xia",
+            "instagram": "",
+            "personalwebsite": "https://sites.google.com/view/xiaoyuxia",
+            "linkedin": "https://www.linkedin.com/in/xiaoyuxia/",
+            "github": "",
+            "googlescholar": "https://scholar.google.com/citations?user=v-6hODoAAAAJ&hl=en"
         },
         "projecturl": "",
         "researchtopic": "",

@@ -5,7 +5,6 @@ import Header from '../containers/layout/header/header-three'
 import SubHeader from '../containers/layout/header/header-three/subheader'
 import Footer from '../containers/layout/footer/footer-one'
 import HeroArea from '../containers/index-processing/hero-area'
-import ProjectTop from '../containers/global/funfact-area/section-three/summer-top'
 import Project1 from '../containers/global/funfact-area/section-three/summer-1'
 import Project2 from '../containers/global/funfact-area/section-three/summer-2'
 import Project3 from '../containers/global/funfact-area/section-three/summer-3'
@@ -29,8 +28,6 @@ const IcdmPage = ({ pageContext, location }) => (
             {/* <SubHeader /> */}
             {/* <AboutArea />
             <FeaturesArea /> */}
-            <ProjectTop />
-
             <div id="project1"><Project1 /></div>
             <div id="project2"><Project2 /></div>
             <div id="project3"><Project3 /></div>

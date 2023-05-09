@@ -2,11 +2,20 @@
     {
         "id": "summer-scholarship-content",
         "title": "CREST Summer Scholarships",
-        "subtitle": "2021-2022",
+        "subtitle": " ",
         "subtitle2": "Jointly held with <a href='https://www.dl-cti.org/'>the DL-CTI Workshop</a>",
         "text": "December 7, 2021",
         "link": "/index-processing",
         "bg_image": "./images/hero/happy-study.jpeg"
+    },
+    {
+        "id": "summber-scholarship-top",
+        "content1":"With the vision of building a talent pipeline of software security engineers, each year, CREST selects a highly talented group of young computer science undergraduates and master's students and offers them scholarships to participate in the CREST summer research program. The program aimed to enable scholarship holders to gain valuable knowledge and skills in engineering software systems supporting cybersecurity by leveraging artificial intelligence (AI), big data technologies, and security systems. Motivated by the CREST - the Centre for Research on Engineering Software Technologies team's commitment to helping build a talent pipeline of software security, this initiative has been highly appreciated by all involved, particularly by the students.",
+        "content2":"This program also provided several postdocs and PhD students at CREST with the opportunity of gaining valuable experiences in leading small-scale engineering projects focused on supporting the security of the software digital systems related to our large-scale R&D projects supported by our industry and government partners, such as National Australia Bank - Nab, ActewAGL, Jemena, Cisco, Tata Consultancy Services, Defence SA, Defence Science and Technology (DST), QuintessenceLabs and SA Health.",
+        "content3":"This initiative also enabled us to test the scalability of our support infrastructure and mentoring practices for real-world projects. Based on the observations/experiences and feedback, we are working on the next phase of this initiative. Please let us know if you would like to know more about any particular aspect of our summer program.",
+        "pic1": "./images/hero/Picture1.jpg",
+        "pic2": "./images/hero/Picture2.jpg",
+        "pic3": "./images/hero/Picture3.jpg"
     },
     {
         "id": "summer-scholarship-project1",
