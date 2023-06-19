@@ -182,32 +182,6 @@
         "is_featured": true
     },
     {
-        "id": "yaser-mansouri",
-        "name": "Yaser Mansouri",
-        "designation": "Post Doc",
-        "position": "researchfellows",
-        "introduction": "Yaser Mansouri is a Research Associate with the Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide working on a project funded by DST.  Yaser obtained his Ph.D. from Cloud Computing and Distributed Systems (CLOUDS) Laboratory, Department of Computing and Information Systems, the University of Melbourne, Australia. Yaser was awarded first-class scholarship, International Postgraduate Research Scholarship (IPRS) and Australian Postgraduate Award (APA) supporting his Ph.D. studies. He received his BSc degree from Shahid Beheshti University and his MSc degree from the Ferdowsi University of Mashhad, Iran in Computer Science and Software Engineering. Yaser has experience in data management across the well-known cloud-based storage services.  Yaser designed offline and online algorithms to replicate data across data storage as well as within tiered cloud storage services to reduce monetary cost while the required response time for users is satisfied. His research interests cover the broad area of Distributed Systems, with special emphasis on data replication and management in cloud storage. Specifically, he is interested in investigating different technologies of cloud storage and designing algorithms to provide provision for big data. Yaser published several Journal and Conference papers in these areas with rank A and A* according to CORE ranking portal.",
-        "images": {
-            "large": "../images/team/yaser.jpg",
-            "medium": "../images/team/yaser.jpg"
-        },
-        "image": "../images/team/yaser.jpg",
-        "competencies": "Cloud-based storage services, Cloud Computing, Fog Computing, Algorithm designe.",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
         "id": "asangi-jayatilake",
         "name": "Asangi Jayatilaka",
         "designation": "Post Doc",
@@ -236,7 +210,7 @@
     {
         "id": "le-ba-dung",
         "name": "Le Ba Dung",
-        "designation": "Research Fellows",
+        "designation": "Research Fellow",
         "position": "alumni",
         "introduction": "My name is “Lê Bá Dũng” (in Vietnamese script) which can be written in English script as “Ba Dung” (first name) and “Le” (last name). My main research interests are in Data mining, Machine learning and Artificial intelligence. Currently, I am focusing on Classification and Clustering algorithms. I obtained a Ph.D. in Computer Science from the School of Computer Science of University of Adelaide, Australia. My Ph.D. thesis was on the topic “Community detection in complex networks”. During my Ph.D., I developed a novel algorithm for detecting the community structure of complex networks and a novel benchmark for evaluating community detection algorithms. Before pursuing my Ph.D., I was a lecturer at the Faculty of Information Technology of Vietnam Maritime University, Vietnam.",
         "images": {
@@ -286,63 +260,11 @@
         "is_featured": true
     },
     {
-        "id": "chadni-islam",
-        "name": "Chadni Islam",
-        "designation": "Post Doc",
-        "position": "researchfellows",
-        "introduction": "Chadni Islam is a postdoctoral researcher in  Centre for Research on Engineering Software Technologies (CREST), School of Computer Science, University of Adelaide. She completed her PhD research in 2020 under the supervision of Professor M. Ali Babar at CREST, School of Computer Science, University of Adelaide, Australia. She was co-supervised by Dr. Surya Nepal, CSIRO's Data61. Her research expertise falls at the intersection of cybersecurity and software engineering. Her PhD research is focused on providing architecture support for security orchestration and automation systems using advanced software engineering technologies. Security orchestration and automation aim at integrating different types of multivendor security software used by security operation centres to automate and accelerate the security incident response process. She is leveraging existing software engineering, analytical reasoning, natural language processing and machine learning tools and techniques to develop an intelligence self-adaptive security orchestration and automation platform. Previously, she worked as a lecturer at Khulna University and Eastern University at Bangladesh. She obtained her master’s and bachelor’s degree from the School of Computer Science and Engineering, University of Dhaka, Bangladesh.",
-        "images": {
-            "large": "../images/team/chadni.png",
-            "medium": "../images/team/chadni.png"
-        },
-        "image": "../images/team/chadni.png",
-        "competencies": "Software Engineering, Cybersecurity, Software Architecture, Artificial Intelligence (Natural Language Processing, Machine Learning and Semantic Technologies), Security Orchestration and Automation, Incident response.",
-        "socials": {
-            "facebook": "",
-            "twitter": "https://twitter.com/_Chadni_",
-            "instagram": "",
-            "personalwebsite": "https://chadniislam.com/",
-            "linkedin": "https://www.linkedin.com/in/chadni-islam-7193b5174/",
-            "github": "",
-            "googlescholar": "https://scholar.google.com.au/citations?hl=en&user=JYcmT_IAAAAJ&view_op=list_works&sortby=pubdate"
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
-        "id": "sheik-fattah",
-        "name": "Sheik Mohammad Mostakim Fattah",
-        "designation": "Post Doc",
-        "position": "researchfellows",
-        "introduction": "Dr. Sheik Mohammad Mostakim Fattah is a postdoctoral researcher at the Centre for Research on Engineering Software Technologies (CREST), School of Computer Science, University of Adelaide. He completed his Ph.D. in 2021 from the School of Computer Science, University of Sydney. His Ph.D. thesis focused on Long-term IaaS Cloud Service Selection. He has published research papers in several top journals and conferences such as IEEE TSC, ACM TWEB, ICSOC, IEEE ICWS, IEEE SCC, and WISE. He also served as a reviewer in several conferences and journals, including IEEE ICWS, ICSOC, IEEE TKDE, IEEE TSC, and ACM TOIT. Before starting his Ph.D., he was an assistant researcher at Korea Electronics Technology Institute (KETI). He worked on developing several IoT-based platforms for several European and Korean research projects. He completed his master's in February 2016 in Computer and Information Communication Engineering at Hankuk University of Foreign Studies, South Korea. He also worked as a research assistant in Advance Networking Lab at the same university. He completed his bachelor's degree in Computer science and Engineering from the University of Dhaka, Bangladesh. He has been awarded several scholarships, such as the School of Computer Science Research Students Excellent Prize, Research Training Program Stipend, and Faculty of Engineering Completion Scholarships.",
-        "images": {
-            "large": "../images/team/fattah.png",
-            "medium": "../images/team/fattah.png"
-        },
-        "image": "../images/team/fattah.png",
-        "competencies": "",
-        "socials": {
-            "facebook": "",
-            "twitter": "https://twitter.com/smfattah",
-            "instagram": "",
-            "personalwebsite": "https://www.researchgate.net/profile/Sheik-Fattah",
-            "linkedin": "https://linkedin.com/in/sheik-mohammad-mostakim-fattah-30814a7b",
-            "github": "",
-            "googlescholar": "https://scholar.google.com/citations?user=IOe5upYAAAAJ&hl=en"
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
         "id": "triet-huynh",
         "name": "Triet Huynh Minh Le",
-        "designation": "PhD",
-        "position": "phdstudents",
-        "introduction": "Triet Huynh Minh Le (Lê Huỳnh Minh Triết) is currently a PhD student under the supervision of Professor Ali Babar at the Centre for Research on Engineering Software Technologies, the University of Adelaide. He obtained his first-class honours bachelor degree in Computer Science as a valedictorian from the International University – Vietnam National University, Ho Chi Minh City. His research interests include but are not limited to data mining and machine learning as well as their interdisciplinary applications. In his undergraduate study, Triet utilized machine learning to predict some challenging chemical properties. His PhD will expand his research works to explore how machine learning can perform security vulnerability analytics and prediction for software systems using open-source data (e.g., NVD/CVE/CWE, GitHub and Stack Overflow).",
+        "designation": "Post Doc",
+        "position": "researchfellows",
+        "introduction": "Triet Huynh Minh Le (Lê Huỳnh Minh Triết) is currently a researcher at the Centre for Research on Engineering Software Technologies, the University of Adelaide. He obtained his first-class honours bachelor degree in Computer Science as a valedictorian from the International University – Vietnam National University, Ho Chi Minh City. His research interests include but are not limited to data mining and machine learning as well as their interdisciplinary applications. In his undergraduate study, Triet utilized machine learning to predict some challenging chemical properties. His PhD will expand his research works to explore how machine learning can perform security vulnerability analytics and prediction for software systems using open-source data (e.g., NVD/CVE/CWE, GitHub and Stack Overflow).",
         "images": {
             "large": "../images/team/triet.jpg",
             "medium": "../images/team/triet.jpg"
@@ -364,17 +286,43 @@
         "is_featured": true
     },
     {
-        "id": "bushra-sabir",
-        "name": "Bushra Sabir",
-        "designation": "PhD",
-        "position": "phdstudents",
-        "introduction": "Bushra Sabir is currently a PhD student in the school of computer science, University of Adelaide. Her area of research is adversarial Machine Learning for cybersecurity systems. She is especially interested in the area of Secure Machine learning for detecting data exfiltration attacks such as Phishing, Malicious Domains, Spam text and Insider threat. Bushra utilized Machine and Deep learning methods to create adversarial examples of cybersecurity applications (such as phishing URLs, spam emails). In her PhD, she will expand her research works to explore solutions to handle adversarial evasion attacks on Machine and Deep learning cybersecurity systems. Previously she has worked as a lecturer for six years and worked in the software industry for two years. She has achieved a gold medal in Master of Computer and Software Engineering from National University of Technology (NUST-Pakistan).",
+        "id": "kun-ting",
+        "name": "Kun-Ting Chen",
+        "designation": "Post Doc",
+        "position": "researchfellows",
+        "introduction": "Kun-Ting Chen is a post-doctoral researcher in the Centre for Research on Engineering Software Technologies (CREST) within Ali Babar's group at University of Adelaide, where he researches and develops human-centered interactive visualizations for cybersecurity and healthcare applications that help people explore complex data. He was a postdoctoral researcher at Visualisation Research Centre of the University of Stuttgart (VISUS) within Daniel Weiskopf’s group. His research lies in network layout algorithms, information visualization, human-computer interaction, eye tracking, and software engineering. He published several papers in high-profile, peer-reviewed venues according to the CORE A* rank, including ACM CHI and IEEE VIS. Kun-Ting served as organizing committee co-chairing student volunteer programs at IEEE VIS '22 and IEEE VIS '23, and as program committee at VIS/HCI venues delivering more than 35 reviews at conferences and journals. Before his PhD, Kun-Ting worked as a software engineer in the software development industry in the area of automatic fare collection (AFC) system, where he successfully worked with his team deploying software applications system-wide in more than 50 Skytrain stations and depots in Bangkok Mass Transit System (BTS).",
         "images": {
-            "large": "../images/team/busra.jpg",
-            "medium": "../images/team/busra.jpg"
+            "large": "../images/team/kuntingchen.jpg",
+            "medium": "../images/team/kuntingchen.jpg"
         },
-        "image": "../images/team/busra.jpg",
-        "competencies": "Secure Deep and Machine learning for security critical systems, phishing attacks, Natural Language Processing. Software engineering for Machine learning systems.",
+        "image": "../images/team/kuntingchen.jpg",
+        "competencies": "Network layout algorithms, information visualization, human-computer interaction, eye tracking, software engineering, agile software development",
+        "socials": {
+            "facebook": "",
+            "twitter": "https://twitter.com/kuntingchen1",
+            "instagram": "",
+            "personalwebsite": "https://kun-ting.github.io/",
+            "linkedin": "https://www.linkedin.com/in/kun-ting-chen-313a5116a",
+            "github": "https://github.com/Kun-Ting",
+            "googlescholar": "https://scholar.google.com/citations?hl=en&user=8gpa65AAAAAJ"
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "li-meng",
+        "name": "Limeng Zhang",
+        "designation": "Post Doc",
+        "position": "researchfellows",
+        "introduction": "Limeng Zhang is a postdoctoral researcher in Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. She completed her Ph.D. in 2023 from Swinburne University of Technology in Australia. Her Ph.D. thesis focused on transaction confirmation analysis in the Bitcoin blockchain. Prior to that, she obtained her master's degree in Computer Applied Technology from The University of Chinese Academy of Sciences in China, and her bachelor's degree in Software Engineering from Sichuan University, China. During that period, she worked on recommender system and machine learning. Her current research interests include blockchain, supply chain, big data analytics, and data mining.",
+        "images": {
+            "large": "../images/team/limeng.jpg",
+            "medium": "../images/team/limeng.jpg"
+        },
+        "image": "../images/team/limeng.jpg",
+        "competencies": "Blockchain, Data mining, Big Data Analytics, Recommender system",
         "socials": {
             "facebook": "",
             "twitter": "",
@@ -390,17 +338,69 @@
         "is_featured": true
     },
     {
-        "id": "fangchao-tian",
-        "name": "Fangchao Tian",
+        "id": "samodha",
+        "name": "Samodha Pallewatta",
+        "designation": "Post Doc",
+        "position": "researchfellows",
+        "introduction": "I am a Researcher with the Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. I pursued my PhD at Cloud Computing and Distributed Systems (CLOUDS) Laboratory, Department of Computing and Information Systems, the University of Melbourne, Australia. My research interests encompass Distributed Systems, Edge-Cloud computing, Internets of Things (IoT) and Microservice Applications. I’ve designed algorithms and software systems for efficient placement of microservices within Edge-Cloud environments. I am interested in developing Edge-Cloud computing platforms to create better solution architectures that support the QoS and security requirements of fast-evolving IoT applications.",
+        "images": {
+            "large": "../images/team/samodha.jpg",
+            "medium": "../images/team/samodha.jpg"
+        },
+        "image": "../images/team/samodha.jpg",
+        "competencies": "Distributed systems, edge-cloud computing, Internet of Things, Microservice Applications",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "https://au.linkedin.com/in/samodha-pallewatta",
+            "github": "https://github.com/Samodhap",
+            "googlescholar": "https://scholar.google.com/citations?user=-18pEVkAAAAJ&hl=en"
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "sangwon-hyun",
+        "name": "Sangwon Hyun",
+        "designation": "Post Doc",
+        "position": "researchfellows",
+        "introduction": "I am a researcher at the University of Adelaide and a member of the Centre for Research on Engineering Software Technology. I got a Ph.D. from the Software Engineering Lab (SELab) at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Doo-Hwan Bae. I have a few experiences in leading research projects to analyze the reliability or safety of complex systems, such as platooning vehicles, swarming drones, and edge cloud-based systems. In addition, I have wide research experiences ranging from surveying, development, experimental dataset generation, and empirical analysis for complex systems.",
+        "images": {
+            "large": "../images/team/Sangwon.jpg",
+            "medium": "../images/team/Sangwon.jpg"
+        },
+        "image": "../images/team/Sangwon.jpg",
+        "competencies": "Automated testing and analysis of large-scale complex systems, such as System-of-Systems (SoS) and Cyber-Physical Systems (CPS), focusing on statistical verification, automated debugging, and AI for SE methods.",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "https://abalon1210.github.io/",
+            "linkedin": "https://www.linkedin.com/in/sangwon-hyun-022a32121/",
+            "github": "https://github.com/abalon1210",
+            "googlescholar": "https://scholar.google.com/citations?user=p1wY2dQAAAAJ&hl=ko"
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "bushra-sabir",
+        "name": "Bushra Sabir",
         "designation": "PhD",
         "position": "phdstudents",
-        "introduction": "I am a visiting PhD student from Wuhan University under joint-supervision of Professor Muhammad Ali Babar and Professor Peng Liang. The main purpose of my research is to systematically analyze the relationships between software architecture and source code for effectively maintaining and evolving software systems. My research interest especially focuses on the relationship between architectural smells and code smells, refactoring architectural smells, and how to evaluate architecture by analyzing source code. I plan to employ empirical research methods and machine learning to address my research questions about the above topics.",
+        "introduction": "Bushra Sabir is currently a PhD student in the school of computer science, University of Adelaide. Her area of research is adversarial Machine Learning for cybersecurity systems. She is especially interested in the area of Secure Machine learning for detecting data exfiltration attacks such as Phishing, Malicious Domains, Spam text and Insider threat. Bushra utilized Machine and Deep learning methods to create adversarial examples of cybersecurity applications (such as phishing URLs, spam emails). In her PhD, she will expand her research works to explore solutions to handle adversarial evasion attacks on Machine and Deep learning cybersecurity systems. Previously she has worked as a lecturer for six years and worked in the software industry for two years. She has achieved a gold medal in Master of Computer and Software Engineering from National University of Technology (NUST-Pakistan).",
         "images": {
-            "large": "../images/team/fangchao.jpg",
-            "medium": "../images/team/fangchao.jpg"
+            "large": "../images/team/busra.jpg",
+            "medium": "../images/team/busra.jpg"
         },
-        "image": "../images/team/fangchao.jpg",
-        "competencies": "Software Architecture, Architectural Smell, Empirical Study, Machine Learning, Mining Software Repositories",
+        "image": "../images/team/busra.jpg",
+        "competencies": "Secure Deep and Machine learning for security critical systems, phishing attacks, Natural Language Processing. Software engineering for Machine learning systems.",
         "socials": {
             "facebook": "",
             "twitter": "",
@@ -467,32 +467,7 @@
         "researchlink": "",
         "is_featured": true
     },
-    {
-        "id": "roshan-Rajapakse",
-        "name": "Roshan Rajapakse",
-        "designation": "PhD",
-        "position": "phdstudents",
-        "introduction": "Roshan Rajapakse is a PhD student with the Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. His studies are being supervised by Professor Muhammad Ali Babar and Dr. Mansooreh Zahedi. Prior to joining CREST, he was a junior staff member at the University of Colombo, Sri Lanka. His main research interests include security in the continuous software engineering paradigm, mining software repositories using text mining techniques and socio-technical research.",
-        "images": {
-            "large": "../images/team/roshan.jpg",
-            "medium": "../images/team/roshan.jpg"
-        },
-        "image": "../images/team/roshan.jpg",
-        "competencies": "Application of text mining techniques on mining software repositories, security automation in the continuous software engineering paradigm and human factors research in software engineering.",
-        "socials": {
-            "facebook": "",
-            "twitter": "https://twitter.com/rosh_nr",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "https://www.linkedin.com/in/roshanrajapakse/",
-            "github": "https://github.com/RoshanRajapakse",
-            "googlescholar": "https://scholar.google.com/citations?user=GVmzDu4AAAAJ&hl=en"
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
+
     {
         "id": "orvila-sarker",
         "name": "Orvila Sarker",
@@ -597,58 +572,7 @@
         "researchlink": "/security-architecture-and-platforms-for-distributed-autonomous-systems",
         "is_featured": true
     },
-    {
-        "id": "mubin-ui",
-        "name": "Mubin Ul Haque",
-        "designation": "PhD",
-        "position": "phdstudents",
-        "introduction": "I am Mubin Ul Haque, from a very beautiful riverine country Bangladesh. I have completed my M.S. and B. Sc. in Computer Science and Engineering from the Department of Computer Science and Engineering, University of Dhaka, Bangladesh. Currently, I am a PhD student under the supervision of Professor Dr. Muhammad Ali Babar, where my researches foucus on “Automation Platform for Clouds (containers) Security Configuration and Compliance across a cloud-based lifecycle”. Before joining here, I was working as a Lecturer (study leave at present) in the Department of Computer Science and Engineering, University of Dhaka, Bangladesh. I also served as a Lecturer in Ahsanullah University of Science and Technology (AUST) prior joining University of Dhaka, Bangladesh. My research interest lies in cyber security, machine learning, software security, reconfigurable and reversible computing.",
-        "images": {
-            "large": "../images/team/mubin.jpg",
-            "medium": "../images/team/mubin.jpg"
-        },
-        "image": "../images/team/mubin.jpg",
-        "competencies": "Application of Machine Learning and Natural Language Processing for Qualitative and Quantitative data analysis in Open Source Repositories (GutHub), Question/Answering Platforms (Stack Overflow, Docker Forum) and Container Image Repositories (Docker Hub), Evaluating Container Configuration Data to predict Vulnerabilities.",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "Automated Container Security",
-        "researchlink": "/automated-container-security",
-        "is_featured": true
-    },
-    {
-        "id": "zarrin-tasnim",
-        "name": "Zarrin Tasnim Sworna",
-        "designation": "PhD",
-        "position": "phdstudents",
-        "introduction": "Currently, I am a PhD student with the Center for Research on Engineering Software Technologies (CREST) at the University of Adelaide under the supervision of Professor Dr. M. Ali Babar. My research interest is in cyber security automation using Machine Learning, Deep Learning and Natural language Processing. Previously, my publications were on VLSI Design. I am on study leave from the post of a Lecturer at Department of Computer Science & Engineering, University of Dhaka (DU), Bangladesh. Before that, I was a lecturer at United International University (UIU), Bangladesh. I have completed my Master of Science (M.S.) and Bachelor of Science (B.Sc) from Department of Computer Science and Engineering, University of Dhaka, Bangladesh.",
-        "images": {
-            "large": "../images/team/zarrin.jpg",
-            "medium": "../images/team/zarrin.jpg"
-        },
-        "image": "../images/team/zarrin.jpg",
-        "competencies": "Security automation, Automated security document analysis, Machine Learning, Deep Learning, Natural Language Processing",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
+    
     {
         "id": "roland-croft",
         "name": "Roland Croft",
@@ -725,32 +649,6 @@
         "projecturl": "",
         "researchtopic": "Cyber Common Operating Pictures",
         "researchlink": "/cyber-common-operating-pictures-ccop",
-        "is_featured": true
-    },
-    {
-        "id": "hussain-ahmad",
-        "name": "Hussain Ahmad",
-        "designation": "PhD",
-        "position": "phdstudents",
-        "introduction": "Hussain is a PhD student at the School of Computer Science, University of Adelaide where he has also served as a Research Engineer for almost a year. He is currently working on the cybersecurity of the Command, Control, Communication, and Intelligence (C3I) Systems under the supervision of Professor Ali Babar and Dr Faheem Ullah. With the aim of providing Information Superiority and Operational Efficacy, his research focuses on the development of effective countervailing solutions for the potential attack vectors that could deteriorate the security characteristics of C3I systems. Hussain is also enthusiastic about Machine Learning, Robotics and Data Security. He holds a bachelor degree in Electronic Engineering from GIK Institute, Pakistan.",
-        "images": {
-            "large": "../images/team/Hussain.png",
-            "medium": "../images/team/Hussain.png"
-        },
-        "image": "../images/team/Hussain.png",
-        "competencies": "Cyber Security, Security/Vulnerability Analytics, Risk Assessment, Cyber Impact Analytics, Network Security",
-        "socials": {
-            "facebook": "",
-            "twitter": "https://twitter.com/HussainAhmad_5",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "https://www.linkedin.com/in/hussainahmad5/",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
         "is_featured": true
     },
     {
@@ -962,10 +860,400 @@
         "is_featured": true
     },
     {
+        "id": "hao-chen",
+        "name": "Hao Chen",
+        "designation": "PhD",
+        "position": "alumni",
+        "introduction": "My research interest is applying deep learning algorithms to software engineering and programming language. I am a Ph.D. student of Computer Science under the Supervision of Professor Muhammad Ali Babar and Professor Chunhua Shen in Crest Centre, at University of Adelaide, Australia. My Ph.D. is focused on “Deep Learning for General Purpose Code Generation.” My goal is to devise neural network models for source code analysis and generation. Previously, I worked as a research scientist at NetEase Inc. China. I obtained my master’s and bachelor’s degree from the School of Computer Science and Engineering, Zhejiang University, China.",
+        "images": {
+            "large": "../images/team/chenhao.jpeg",
+            "medium": "../images/team/chenhao.jpeg"
+        },
+        "image": "../images/team/chenhao.jpeg",
+        "competencies": " ",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "yaser-mansouri",
+        "name": "Yaser Mansouri",
+        "designation": "Post Doc",
+        "position": "alumni",
+        "introduction": "Yaser Mansouri is a Research Associate with the Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide working on a project funded by DST.  Yaser obtained his Ph.D. from Cloud Computing and Distributed Systems (CLOUDS) Laboratory, Department of Computing and Information Systems, the University of Melbourne, Australia. Yaser was awarded first-class scholarship, International Postgraduate Research Scholarship (IPRS) and Australian Postgraduate Award (APA) supporting his Ph.D. studies. He received his BSc degree from Shahid Beheshti University and his MSc degree from the Ferdowsi University of Mashhad, Iran in Computer Science and Software Engineering. Yaser has experience in data management across the well-known cloud-based storage services.  Yaser designed offline and online algorithms to replicate data across data storage as well as within tiered cloud storage services to reduce monetary cost while the required response time for users is satisfied. His research interests cover the broad area of Distributed Systems, with special emphasis on data replication and management in cloud storage. Specifically, he is interested in investigating different technologies of cloud storage and designing algorithms to provide provision for big data. Yaser published several Journal and Conference papers in these areas with rank A and A* according to CORE ranking portal.",
+        "images": {
+            "large": "../images/team/yaser.jpg",
+            "medium": "../images/team/yaser.jpg"
+        },
+        "image": "../images/team/yaser.jpg",
+        "competencies": "Cloud-based storage services, Cloud Computing, Fog Computing, Algorithm designe.",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "chadni-islam",
+        "name": "Chadni Islam",
+        "designation": "Post Doc",
+        "position": "alumni",
+        "introduction": "Chadni Islam is a postdoctoral researcher in  Centre for Research on Engineering Software Technologies (CREST), School of Computer Science, University of Adelaide. She completed her PhD research in 2020 under the supervision of Professor M. Ali Babar at CREST, School of Computer Science, University of Adelaide, Australia. She was co-supervised by Dr. Surya Nepal, CSIRO's Data61. Her research expertise falls at the intersection of cybersecurity and software engineering. Her PhD research is focused on providing architecture support for security orchestration and automation systems using advanced software engineering technologies. Security orchestration and automation aim at integrating different types of multivendor security software used by security operation centres to automate and accelerate the security incident response process. She is leveraging existing software engineering, analytical reasoning, natural language processing and machine learning tools and techniques to develop an intelligence self-adaptive security orchestration and automation platform. Previously, she worked as a lecturer at Khulna University and Eastern University at Bangladesh. She obtained her master’s and bachelor’s degree from the School of Computer Science and Engineering, University of Dhaka, Bangladesh.",
+        "images": {
+            "large": "../images/team/chadni.png",
+            "medium": "../images/team/chadni.png"
+        },
+        "image": "../images/team/chadni.png",
+        "competencies": "Software Engineering, Cybersecurity, Software Architecture, Artificial Intelligence (Natural Language Processing, Machine Learning and Semantic Technologies), Security Orchestration and Automation, Incident response.",
+        "socials": {
+            "facebook": "",
+            "twitter": "https://twitter.com/_Chadni_",
+            "instagram": "",
+            "personalwebsite": "https://chadniislam.com/",
+            "linkedin": "https://www.linkedin.com/in/chadni-islam-7193b5174/",
+            "github": "",
+            "googlescholar": "https://scholar.google.com.au/citations?hl=en&user=JYcmT_IAAAAJ&view_op=list_works&sortby=pubdate"
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "sheik-fattah",
+        "name": "Sheik Mohammad Mostakim Fattah",
+        "designation": "Post Doc",
+        "position": "alumni",
+        "introduction": "Dr. Sheik Mohammad Mostakim Fattah is a postdoctoral researcher at the Centre for Research on Engineering Software Technologies (CREST), School of Computer Science, University of Adelaide. He completed his Ph.D. in 2021 from the School of Computer Science, University of Sydney. His Ph.D. thesis focused on Long-term IaaS Cloud Service Selection. He has published research papers in several top journals and conferences such as IEEE TSC, ACM TWEB, ICSOC, IEEE ICWS, IEEE SCC, and WISE. He also served as a reviewer in several conferences and journals, including IEEE ICWS, ICSOC, IEEE TKDE, IEEE TSC, and ACM TOIT. Before starting his Ph.D., he was an assistant researcher at Korea Electronics Technology Institute (KETI). He worked on developing several IoT-based platforms for several European and Korean research projects. He completed his master's in February 2016 in Computer and Information Communication Engineering at Hankuk University of Foreign Studies, South Korea. He also worked as a research assistant in Advance Networking Lab at the same university. He completed his bachelor's degree in Computer science and Engineering from the University of Dhaka, Bangladesh. He has been awarded several scholarships, such as the School of Computer Science Research Students Excellent Prize, Research Training Program Stipend, and Faculty of Engineering Completion Scholarships.",
+        "images": {
+            "large": "../images/team/fattah.png",
+            "medium": "../images/team/fattah.png"
+        },
+        "image": "../images/team/fattah.png",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "https://twitter.com/smfattah",
+            "instagram": "",
+            "personalwebsite": "https://www.researchgate.net/profile/Sheik-Fattah",
+            "linkedin": "https://linkedin.com/in/sheik-mohammad-mostakim-fattah-30814a7b",
+            "github": "",
+            "googlescholar": "https://scholar.google.com/citations?user=IOe5upYAAAAJ&hl=en"
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "huaming-chen",
+        "name": "Huaming Chen",
+        "designation": "Post Doc",
+        "position": "alumni",
+        "introduction": "Dr. Huaming Chen is a researcher of Centre for Research on Engineering Software Technologies (CREST). Huaming received his PhD from School of Computing and Information Technology in University of Wollongong. He completed his master in Computer System Architecture and bachelor (Hons) degrees in Electronics at Lanzhou University, in 2015 and 2012 respectively. During his research training in master and PhD, he has a major focus on the computational intelligence, particularly for applied machine learning and deep learning. He has collaborated with researchers with different expertises to develop leveraging algorithms and models to make contributions to the distinct challenges in different areas, including biologist, industrial production and transportation. He has also actively served as the reviewers for renowned grants and top international journals/conferences. He is now working on the topic lying at the intersection of machine learning, software engineering and cyber security. His research interests including: applied machine learning, software engineering, computational intelligence and cyber security.",
+        "images": {
+            "large": "../images/team/HuamingChen.jpg",
+            "medium": "../images/team/HuamingChen.jpg"
+        },
+        "image": "../images/team/HuamingChen.jpg",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "https://researchers.adelaide.edu.au/profile/huaming.chen",
+            "linkedin": "https://www.linkedin.com/in/huaming-chen/",
+            "github": "",
+            "googlescholar": "https://scholar.google.com/citations?user=3-qRVLUAAAAJ&hl=en"
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "xiaoyu-xia",
+        "name": "Xiaoyu Xia",
+        "designation": "Post Doc",
+        "position": "alumni",
+        "introduction": "Xiaoyu Xia is a researcher at of Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. He received his Master degree from The University of Melbourne, Australia and his PhD degree from Deakin University, Australia. During his PhD, he mainly focused on data caching and data distribution in edge computing. His current research interests include edge computing, parallel and distributed computing, cloud computing and service computing. ",
+        "images": {
+            "large": "../images/team/xiaoyu.jpg",
+            "medium": "../images/team/xiaoyu.jpg"
+        },
+        "image": "../images/team/xiaoyu.jpg",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "https://twitter.com/xiaoyu_shaw_xia",
+            "instagram": "",
+            "personalwebsite": "https://sites.google.com/view/xiaoyuxia",
+            "linkedin": "https://www.linkedin.com/in/xiaoyuxia/",
+            "github": "",
+            "googlescholar": "https://scholar.google.com/citations?user=v-6hODoAAAAJ&hl=en"
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "monica-bian",
+        "name": "Monica Bian",
+        "designation": "Post Doc",
+        "position": "alumni",
+        "introduction": "Dr Ranran Bian received her PhD from The University of Auckland (New Zealand) and is currently working as a Postdoc researcher at The University of Adelaide. Her PhD focused on heterogeneous network mining and analysis, where novel algorithms for community discovery, ranking, dynamic embedding and change modeling in different heterogeneous networks were developed. The key areas of her research interests include: network embedding for dynamic heterogeneous networks, social network analysis, applying network analysis techniques in different cybersecurity domains.",
+        "images": {
+            "large": "../images/team/monica.jpg",
+            "medium": "../images/team/monica.jpg"
+        },
+        "image": "../images/team/monica.jpg",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "https://twitter.com/Monica_RR_Bian",
+            "instagram": "",
+            "personalwebsite": "https://researchers.adelaide.edu.au/profile/monica.bian#my-research",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "guanhua-wang",
+        "name": "Guanhua Wang",
+        "designation": "PhD",
+        "position": "alumni",
+        "introduction": "Guanhua Wang is a PhD student under the supervision of Dr. Mingyu Guo and Prof. Ali Babar. His research is on applying deep learning technique to market design, and its application to cybersecurity domains (e.g., bug bounty systems).",
+        "images": {
+            "large": "../images/team/guanhua.jpeg",
+            "medium": "../images/team/guanhua.jpeg"
+        },
+        "image": "../images/team/guanhua.jpeg",
+        "competencies": "Deep Learning, Mechanism Design",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "fangchao-tian",
+        "name": "Fangchao Tian",
+        "designation": "PhD",
+        "position": "alumni",
+        "introduction": "I am a visiting PhD student from Wuhan University under joint-supervision of Professor Muhammad Ali Babar and Professor Peng Liang. The main purpose of my research is to systematically analyze the relationships between software architecture and source code for effectively maintaining and evolving software systems. My research interest especially focuses on the relationship between architectural smells and code smells, refactoring architectural smells, and how to evaluate architecture by analyzing source code. I plan to employ empirical research methods and machine learning to address my research questions about the above topics.",
+        "images": {
+            "large": "../images/team/fangchao.jpg",
+            "medium": "../images/team/fangchao.jpg"
+        },
+        "image": "../images/team/fangchao.jpg",
+        "competencies": "Software Architecture, Architectural Smell, Empirical Study, Machine Learning, Mining Software Repositories",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "bakheet-aljedaani",
+        "name": "Bakheet Aljedaani",
+        "designation": "PhD",
+        "position": "alumni",
+        "introduction": "Bakheet Aljedaani is a PhD student in the Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. His current research focus is on the security of mobile health applications, particularly assessing the security perception for the end-users, as well as investigating the process of developing secure apps. His research is mainly conducted empirically (e.g., interviews and surveys) and analysing quantitive and qualitative data. The key areas of his research are human aspects of developing secure mobile health applications, security and privacy of mobile health applications, and end-users’ security requirements for mobile health applications. Bakheet worked as a lecturer at Umm Alqura University, Saudi Arabia before joining CREST. He obtained a bachelor degree in Computer Science from King Abdulaziz University, Saudi Arabia and a Master’s degree in Information Security from Lewis University, USA in 2008 and 2011 respectively.",
+        "images": {
+            "large": "../images/team/Bakheet.jpg",
+            "medium": "../images/team/Bakheet.jpg"
+        },
+        "image": "../images/team/Bakheet.jpg",
+        "competencies": "Human factor. Mobile health applications. Security and privacy. Security requirements. Empirical research. Quantitative and qualitative analysis.",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "Secure Mobile Health Application Engineering",
+        "researchlink": "/secure-mobile-health-application-engineering",
+        "is_featured": true
+    },
+    {
+        "id": "roshan-Rajapakse",
+        "name": "Roshan Rajapakse",
+        "designation": "PhD",
+        "position": "alumni",
+        "introduction": "Roshan Rajapakse is a PhD student with the Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. His studies are being supervised by Professor Muhammad Ali Babar and Dr. Mansooreh Zahedi. Prior to joining CREST, he was a junior staff member at the University of Colombo, Sri Lanka. His main research interests include security in the continuous software engineering paradigm, mining software repositories using text mining techniques and socio-technical research.",
+        "images": {
+            "large": "../images/team/roshan.jpg",
+            "medium": "../images/team/roshan.jpg"
+        },
+        "image": "../images/team/roshan.jpg",
+        "competencies": "Application of text mining techniques on mining software repositories, security automation in the continuous software engineering paradigm and human factors research in software engineering.",
+        "socials": {
+            "facebook": "",
+            "twitter": "https://twitter.com/rosh_nr",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "https://www.linkedin.com/in/roshanrajapakse/",
+            "github": "https://github.com/RoshanRajapakse",
+            "googlescholar": "https://scholar.google.com/citations?user=GVmzDu4AAAAJ&hl=en"
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "mubin-ui",
+        "name": "Mubin Ul Haque",
+        "designation": "PhD",
+        "position": "alumni",
+        "introduction": "I am Mubin Ul Haque, from a very beautiful riverine country Bangladesh. I have completed my M.S. and B. Sc. in Computer Science and Engineering from the Department of Computer Science and Engineering, University of Dhaka, Bangladesh. Currently, I am a PhD student under the supervision of Professor Dr. Muhammad Ali Babar, where my researches foucus on “Automation Platform for Clouds (containers) Security Configuration and Compliance across a cloud-based lifecycle”. Before joining here, I was working as a Lecturer (study leave at present) in the Department of Computer Science and Engineering, University of Dhaka, Bangladesh. I also served as a Lecturer in Ahsanullah University of Science and Technology (AUST) prior joining University of Dhaka, Bangladesh. My research interest lies in cyber security, machine learning, software security, reconfigurable and reversible computing.",
+        "images": {
+            "large": "../images/team/mubin.jpg",
+            "medium": "../images/team/mubin.jpg"
+        },
+        "image": "../images/team/mubin.jpg",
+        "competencies": "Application of Machine Learning and Natural Language Processing for Qualitative and Quantitative data analysis in Open Source Repositories (GutHub), Question/Answering Platforms (Stack Overflow, Docker Forum) and Container Image Repositories (Docker Hub), Evaluating Container Configuration Data to predict Vulnerabilities.",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "Automated Container Security",
+        "researchlink": "/automated-container-security",
+        "is_featured": true
+    },
+    {
+        "id": "zarrin-tasnim",
+        "name": "Zarrin Tasnim Sworna",
+        "designation": "PhD",
+        "position": "alumni",
+        "introduction": "Currently, I am a PhD student with the Center for Research on Engineering Software Technologies (CREST) at the University of Adelaide under the supervision of Professor Dr. M. Ali Babar. My research interest is in cyber security automation using Machine Learning, Deep Learning and Natural language Processing. Previously, my publications were on VLSI Design. I am on study leave from the post of a Lecturer at Department of Computer Science & Engineering, University of Dhaka (DU), Bangladesh. Before that, I was a lecturer at United International University (UIU), Bangladesh. I have completed my Master of Science (M.S.) and Bachelor of Science (B.Sc) from Department of Computer Science and Engineering, University of Dhaka, Bangladesh.",
+        "images": {
+            "large": "../images/team/zarrin.jpg",
+            "medium": "../images/team/zarrin.jpg"
+        },
+        "image": "../images/team/zarrin.jpg",
+        "competencies": "Security automation, Automated security document analysis, Machine Learning, Deep Learning, Natural Language Processing",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "hussain-ahmad",
+        "name": "Hussain Ahmad",
+        "designation": "PhD",
+        "position": "alumni",
+        "introduction": "Hussain is a PhD student at the School of Computer Science, University of Adelaide where he has also served as a Research Engineer for almost a year. He is currently working on the cybersecurity of the Command, Control, Communication, and Intelligence (C3I) Systems under the supervision of Professor Ali Babar and Dr Faheem Ullah. With the aim of providing Information Superiority and Operational Efficacy, his research focuses on the development of effective countervailing solutions for the potential attack vectors that could deteriorate the security characteristics of C3I systems. Hussain is also enthusiastic about Machine Learning, Robotics and Data Security. He holds a bachelor degree in Electronic Engineering from GIK Institute, Pakistan.",
+        "images": {
+            "large": "../images/team/Hussain.png",
+            "medium": "../images/team/Hussain.png"
+        },
+        "image": "../images/team/Hussain.png",
+        "competencies": "Cyber Security, Security/Vulnerability Analytics, Risk Assessment, Cyber Impact Analytics, Network Security",
+        "socials": {
+            "facebook": "",
+            "twitter": "https://twitter.com/HussainAhmad_5",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "https://www.linkedin.com/in/hussainahmad5/",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "david-hin",
+        "name": "David Hin",
+        "designation": "Honour Student",
+        "position": "alumni",
+        "introduction": "David Hin is currently a Ph.D. student at the University of Adelaide under the supervision of Professor M. Ali Babar and Dr. Huaming Chen. His area of research focuses on machine learning-assisted secure software development, with a particular interest in software vulnerabilities. Other interests include learning from big code, natural language processing, program comprehension, graph representations, and explainable AI.",
+        "images": {
+            "large": "../images/team/david.jpg",
+            "medium": "../images/team/david.jpg"
+        },
+        "image": "../images/team/david.jpg",
+        "competencies": "Mining software repositories, natural Language processing, security/vulnerability analytics, machine learning",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
         "id": "amrit-swaroop",
         "name": "Amrit Swaroop Sinha",
         "designation": "Research Engineer",
-        "position": "assistants",
+        "position": "alumni",
         "introduction": "TBD",
         "images": {
             "large": "../images/team/Amrit.jpeg",
@@ -991,7 +1279,7 @@
         "id": "xu-zhan",
         "name": "Xu Zhan",
         "designation": "Research Assistant",
-        "position": "assistants",
+        "position": "alumni",
         "introduction": "I am a current MSc Data Science graduate student from the University of Adelaide. My academic background is mechatronic engineering and data science and my main research focus on computer vision and natural language processing.  This project is supervised by Dr. Aufeef Chauhan and Professor Ali Babar.  I am excited to apply cutting-edge computer vision and natural language processing technologies to more real life products.",
         "images": {
             "large": "../images/team/xuzhan.png",
@@ -999,32 +1287,6 @@
         },
         "image": "../images/team/xuzhan.png",
         "competencies": "",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
-        "id": "hao-chen",
-        "name": "Hao Chen",
-        "designation": "PhD",
-        "position": "alumni",
-        "introduction": "My research interest is applying deep learning algorithms to software engineering and programming language. I am a Ph.D. student of Computer Science under the Supervision of Professor Muhammad Ali Babar and Professor Chunhua Shen in Crest Centre, at University of Adelaide, Australia. My Ph.D. is focused on “Deep Learning for General Purpose Code Generation.” My goal is to devise neural network models for source code analysis and generation. Previously, I worked as a research scientist at NetEase Inc. China. I obtained my master’s and bachelor’s degree from the School of Computer Science and Engineering, Zhejiang University, China.",
-        "images": {
-            "large": "../images/team/chenhao.jpeg",
-            "medium": "../images/team/chenhao.jpeg"
-        },
-        "image": "../images/team/chenhao.jpeg",
-        "competencies": " ",
         "socials": {
             "facebook": "",
             "twitter": "",
@@ -1173,7 +1435,7 @@
         "id": "bo-li",
         "name": "Bo Li",
         "designation": "Master Student",
-        "position": "masterstudents",
+        "position": "alumni",
         "introduction": "Bo Li is a Master of Cybersecurity student at University of Adelaide. He graduated from Xidian University, China with a Bachelor of Information security from the Faculty of Telecommunications Engineering. He has worked in the software industry for more than 10 years in several large companies and has extensive experience in software development, software architecture design and agile development. The research project he is currently working on is Automated analysis and recommendation of security incident response plan using Deep learning model under the supervision of Professor Ali Babar and Dr. Chadni Islam. This research project wants to analyze incident response through machine learning and artificial intelligence technology, and generate a guide book for incident response. Discover potential security threats as early as possible through the analysis of incident response data. He is passionate about research projects combining machine learning, artificial intelligence and information security. At the same time, he enjoys the opportunity to work with an excellent team.",
         "images": {
             "large": "../images/team/boli.png",
@@ -1199,7 +1461,7 @@
         "id": "minhaj-ahmed",
         "name": "Minhaj Ahmed",
         "designation": "Bachelor Student",
-        "position": "masterstudents",
+        "position": "alumni",
         "introduction": "Minhaj Ahmed is a second year Bachelor of Computer Science (Advanced) student at The University of Adelaide. Minhaj has received a scholarship on his admission at The University of Adelaide based on academic merit. His fascination towards research has propelled Minhaj to get involved in project works, and he is working on a project which focuses on studying an existing incident response plan associated with a security attack and identifying the key features of the incident response process. The research is being supervised by Professor M. Ali Babar and Dr. Chadni Islam. The involvement of Artificial Intelligence and Cybersecurity in the topic attracted the interest of Minhaj, and he is excited to leverage on the opportunity to explore techniques related to natural language processing and data analytics.",
         "images": {
             "large": "../images/team/minhaj.png",
@@ -1215,162 +1477,6 @@
             "linkedin": "",
             "github": "",
             "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
-        "id": "david-hin",
-        "name": "David Hin",
-        "designation": "Honour Student",
-        "position": "alumni",
-        "introduction": "David Hin is currently a Ph.D. student at the University of Adelaide under the supervision of Professor M. Ali Babar and Dr. Huaming Chen. His area of research focuses on machine learning-assisted secure software development, with a particular interest in software vulnerabilities. Other interests include learning from big code, natural language processing, program comprehension, graph representations, and explainable AI.",
-        "images": {
-            "large": "../images/team/david.jpg",
-            "medium": "../images/team/david.jpg"
-        },
-        "image": "../images/team/david.jpg",
-        "competencies": "Mining software repositories, natural Language processing, security/vulnerability analytics, machine learning",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
-        "id": "monica-bian",
-        "name": "Monica Bian",
-        "designation": "Post Doc",
-        "position": "alumni",
-        "introduction": "Dr Ranran Bian received her PhD from The University of Auckland (New Zealand) and is currently working as a Postdoc researcher at The University of Adelaide. Her PhD focused on heterogeneous network mining and analysis, where novel algorithms for community discovery, ranking, dynamic embedding and change modeling in different heterogeneous networks were developed. The key areas of her research interests include: network embedding for dynamic heterogeneous networks, social network analysis, applying network analysis techniques in different cybersecurity domains.",
-        "images": {
-            "large": "../images/team/monica.jpg",
-            "medium": "../images/team/monica.jpg"
-        },
-        "image": "../images/team/monica.jpg",
-        "competencies": "",
-        "socials": {
-            "facebook": "",
-            "twitter": "https://twitter.com/Monica_RR_Bian",
-            "instagram": "",
-            "personalwebsite": "https://researchers.adelaide.edu.au/profile/monica.bian#my-research",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
-        "id": "guanhua-wang",
-        "name": "Guanhua Wang",
-        "designation": "PhD",
-        "position": "alumni",
-        "introduction": "Guanhua Wang is a PhD student under the supervision of Dr. Mingyu Guo and Prof. Ali Babar. His research is on applying deep learning technique to market design, and its application to cybersecurity domains (e.g., bug bounty systems).",
-        "images": {
-            "large": "../images/team/guanhua.jpeg",
-            "medium": "../images/team/guanhua.jpeg"
-        },
-        "image": "../images/team/guanhua.jpeg",
-        "competencies": "Deep Learning, Mechanism Design",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
-        "id": "bakheet-aljedaani",
-        "name": "Bakheet Aljedaani",
-        "designation": "PhD",
-        "position": "alumni",
-        "introduction": "Bakheet Aljedaani is a PhD student in the Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. His current research focus is on the security of mobile health applications, particularly assessing the security perception for the end-users, as well as investigating the process of developing secure apps. His research is mainly conducted empirically (e.g., interviews and surveys) and analysing quantitive and qualitative data. The key areas of his research are human aspects of developing secure mobile health applications, security and privacy of mobile health applications, and end-users’ security requirements for mobile health applications. Bakheet worked as a lecturer at Umm Alqura University, Saudi Arabia before joining CREST. He obtained a bachelor degree in Computer Science from King Abdulaziz University, Saudi Arabia and a Master’s degree in Information Security from Lewis University, USA in 2008 and 2011 respectively.",
-        "images": {
-            "large": "../images/team/Bakheet.jpg",
-            "medium": "../images/team/Bakheet.jpg"
-        },
-        "image": "../images/team/Bakheet.jpg",
-        "competencies": "Human factor. Mobile health applications. Security and privacy. Security requirements. Empirical research. Quantitative and qualitative analysis.",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "",
-            "linkedin": "",
-            "github": "",
-            "googlescholar": ""
-        },
-        "projecturl": "",
-        "researchtopic": "Secure Mobile Health Application Engineering",
-        "researchlink": "/secure-mobile-health-application-engineering",
-        "is_featured": true
-    },
-    {
-        "id": "huaming-chen",
-        "name": "Huaming Chen",
-        "designation": "Post Doc",
-        "position": "alumni",
-        "introduction": "Dr. Huaming Chen is a researcher of Centre for Research on Engineering Software Technologies (CREST). Huaming received his PhD from School of Computing and Information Technology in University of Wollongong. He completed his master in Computer System Architecture and bachelor (Hons) degrees in Electronics at Lanzhou University, in 2015 and 2012 respectively. During his research training in master and PhD, he has a major focus on the computational intelligence, particularly for applied machine learning and deep learning. He has collaborated with researchers with different expertises to develop leveraging algorithms and models to make contributions to the distinct challenges in different areas, including biologist, industrial production and transportation. He has also actively served as the reviewers for renowned grants and top international journals/conferences. He is now working on the topic lying at the intersection of machine learning, software engineering and cyber security. His research interests including: applied machine learning, software engineering, computational intelligence and cyber security.",
-        "images": {
-            "large": "../images/team/HuamingChen.jpg",
-            "medium": "../images/team/HuamingChen.jpg"
-        },
-        "image": "../images/team/HuamingChen.jpg",
-        "competencies": "",
-        "socials": {
-            "facebook": "",
-            "twitter": "",
-            "instagram": "",
-            "personalwebsite": "https://researchers.adelaide.edu.au/profile/huaming.chen",
-            "linkedin": "https://www.linkedin.com/in/huaming-chen/",
-            "github": "",
-            "googlescholar": "https://scholar.google.com/citations?user=3-qRVLUAAAAJ&hl=en"
-        },
-        "projecturl": "",
-        "researchtopic": "",
-        "researchlink": "",
-        "is_featured": true
-    },
-    {
-        "id": "xiaoyu-xia",
-        "name": "Xiaoyu Xia",
-        "designation": "Post Doc",
-        "position": "alumni",
-        "introduction": "Xiaoyu Xia is a researcher at of Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. He received his Master degree from The University of Melbourne, Australia and his PhD degree from Deakin University, Australia. During his PhD, he mainly focused on data caching and data distribution in edge computing. His current research interests include edge computing, parallel and distributed computing, cloud computing and service computing. ",
-        "images": {
-            "large": "../images/team/xiaoyu.jpg",
-            "medium": "../images/team/xiaoyu.jpg"
-        },
-        "image": "../images/team/xiaoyu.jpg",
-        "competencies": "",
-        "socials": {
-            "facebook": "",
-            "twitter": "https://twitter.com/xiaoyu_shaw_xia",
-            "instagram": "",
-            "personalwebsite": "https://sites.google.com/view/xiaoyuxia",
-            "linkedin": "https://www.linkedin.com/in/xiaoyuxia/",
-            "github": "",
-            "googlescholar": "https://scholar.google.com/citations?user=v-6hODoAAAAJ&hl=en"
         },
         "projecturl": "",
         "researchtopic": "",
