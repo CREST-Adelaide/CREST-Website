@@ -860,6 +860,32 @@
         "is_featured": true
     },
     {
+        "id": "ashwinraj",
+        "name": "Ashwinraj Giriraj",
+        "designation": "Research Engineer",
+        "position": "assistants",
+        "introduction": "My name is Ashwinraj Giriraj, and you can call me Ashwin. I am a Passionate Master's graduate from the University of Adelaide in cybersecurity. I am currently engaged in a Research Project under the guidance of Prof. M. Ali Babar, focusing on utilizing the CyBOK Framework in fostering industries and educational institutions. My areas of expertise are Governance, Risk and Compliance, Web Security, and Network Security.  I Hold professional certifications, including EC-Council Certified Ethical Hacker (CEH) and Networking with Cisco Router and Switch. I'm dedicated to continuous learning and implementation in challenging and creative environments. And I am committed to making a positive impact in cybersecurity and actively seeking collaborative opportunities for innovation.",
+        "images": {
+            "large": "../images/team/ashwinraj.jpg",
+            "medium": "../images/team/ashwinraj.jpg"
+        },
+        "image": "../images/team/ashwinraj.jpg",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
         "id": "hao-chen",
         "name": "Hao Chen",
         "designation": "PhD",
