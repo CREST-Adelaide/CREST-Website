@@ -390,6 +390,32 @@
         "is_featured": true
     },
     {
+        "id": "boyu",
+        "name": "Boyu Zhang",
+        "designation": "Post Doc",
+        "position": "researchfellows",
+        "introduction": "Boyu Zhang is a post-doctoral researcher at the Centre for Research on Engineering Software Technologies (CREST) at the University of Adelaide. His research focuses on the application of large language models for code generation, as well as vulnerability detection and repair. Boyu obtained his Ph.D. in computer science from Swinburne University of Technology, where he specialized in training deep neural networks to improve generalization using a multitask optimization framework. Before joining CREST, he worked as a senior algorithm engineer at Alibaba, specializing in prohibited products recognition on e-commerce platforms such as Lazada and AliExpress via the techniques of representation learning, natural language processing and human-in-the-loop approaches.",
+        "images": {
+            "large": "../images/team/boyu.jpg",
+            "medium": "../images/team/boyu.jpg"
+        },
+        "image": "../images/team/boyu.jpg",
+        "competencies": "Distributed systems, edge-cloud computing, Internet of Things, Microservice Applications",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "https://www.linkedin.com/in/boyu-zhang-75094a60/",
+            "github": "https://github.com/boyuZh",
+            "googlescholar": "https://scholar.google.com/citations?&user=bpdpe1cAAAAJ&view_op=list_works&sortby=pubdate"
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
         "id": "bushra-sabir",
         "name": "Bushra Sabir",
         "designation": "PhD",
