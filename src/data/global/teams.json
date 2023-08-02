@@ -938,6 +938,58 @@
         "is_featured": true
     },
     {
+        "id": "antony",
+        "name": "Antony Nicholas Cameron",
+        "designation": "Project Officer",
+        "position": "assistants",
+        "introduction": "I am currently working as a Project Officer for CREST with the aim of funding and scoping new research partnerships and collaborations. I am a highly motivated, goal-oriented and passionate individual with a strong commitment to technology and innovation. As a recent Computer Science graduate, I have gained a strong technical background with experience designing and building innovative solutions across the health and defence sectors. My internship and project experience spans academia, industry, and government, as I have worked for BAE Systems, DSTG, MIT Big Data Living Lab, and the University of Adelaide in multiple technical roles. My current Masters’ degree is enriching my geo-political awareness and allowing me to contextualise my existing technical knowledge within the national security arena. I hope to apply this new knowledge to enhance my cross-cultural understanding and refine my research skills.",
+        "images": {
+            "large": "../images/team/Antony.jpg",
+            "medium": "../images/team/Antony.jpg"
+        },
+        "image": "../images/team/Antony.jpg",
+        "competencies": "AI/ML, Computer Science, Project Management, Digital Health, Defence, Research",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "https://www.linkedin.com/in/antony-cameron-45199b1a3/",
+            "github": "https://github.com/anc29",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
+        "id": "navaneeth",
+        "name": "Navaneeth Sivakumar",
+        "designation": "Research Assistant",
+        "position": "assistants",
+        "introduction": "I am a Master of Cybersecurity graduate from The University of Adelaide and am currently working as a Research Assistant with CREST. My interests lie in offensive security, predominantly web and network pen-testing, although I enjoy dabbling in different technical areas that I find interesting. I have also done some brief work in the Governance, Risk, and Compliance (GRC) domain. I enjoy participating in CTF competitions and am ever-curious to learn and explore new avenues in the exciting world of computer science.",
+        "images": {
+            "large": "../images/team/Navaneeth.jpg",
+            "medium": "../images/team/Navaneeth.jpg"
+        },
+        "image": "../images/team/Navaneeth.jpg",
+        "competencies": "",
+        "socials": {
+            "facebook": "",
+            "twitter": "",
+            "instagram": "",
+            "personalwebsite": "",
+            "linkedin": "",
+            "github": "",
+            "googlescholar": ""
+        },
+        "projecturl": "",
+        "researchtopic": "",
+        "researchlink": "",
+        "is_featured": true
+    },
+    {
         "id": "hao-chen",
         "name": "Hao Chen",
         "designation": "PhD",
